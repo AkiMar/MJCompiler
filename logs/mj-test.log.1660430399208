@@ -1,0 +1,698 @@
+INFO  00:34:47,151 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\programTestB.mj
+INFO  00:34:47,207 - #2 program
+INFO  00:34:47,207 - #15 test302
+INFO  00:34:47,207 - #23 const
+INFO  00:34:47,208 - #15 int
+INFO  00:34:47,208 - #15 jedan
+INFO  00:34:47,208 - #8 =
+INFO  00:34:47,208 - #14 1
+INFO  00:34:47,209 - #5 ;
+INFO  00:34:47,209 - #15 int
+INFO  00:34:47,210 - #15 i
+INFO  00:34:47,210 - #5 ;
+INFO  00:34:47,210 - #15 bool
+INFO  00:34:47,211 - #15 ibool
+INFO  00:34:47,211 - #5 ;
+INFO  00:34:47,211 - #15 int
+INFO  00:34:47,211 - #15 niz2
+INFO  00:34:47,211 - #11 ,
+INFO  00:34:47,211 - #15 niz3
+INFO  00:34:47,211 - #5 ;
+INFO  00:34:47,211 - #15 int
+INFO  00:34:47,211 - #15 niz
+INFO  00:34:47,212 - #33 [
+INFO  00:34:47,212 - #34 ]
+INFO  00:34:47,212 - #5 ;
+INFO  00:34:47,212 - #15 int
+INFO  00:34:47,212 - #15 a
+INFO  00:34:47,212 - #5 ;
+INFO  00:34:47,212 - #3 {
+INFO  00:34:47,213 - #15 int
+INFO  00:34:47,213 - #15 sum
+INFO  00:34:47,213 - #6 (
+INFO  00:34:47,214 - #15 int
+INFO  00:34:47,214 - #15 z
+INFO  00:34:47,214 - #8 =
+INFO  00:34:47,214 - #14 1
+INFO  00:34:47,214 - #11 ,
+INFO  00:34:47,214 - #15 int
+INFO  00:34:47,214 - #15 d
+INFO  00:34:47,214 - #8 =
+INFO  00:34:47,214 - #14 2
+INFO  00:34:47,215 - #7 )
+INFO  00:34:47,215 - #3 {
+INFO  00:34:47,215 - #9 return
+INFO  00:34:47,216 - #15 z
+INFO  00:34:47,216 - #10 +
+INFO  00:34:47,217 - #15 d
+INFO  00:34:47,218 - #5 ;
+INFO  00:34:47,218 - #4 }
+INFO  00:34:47,218 - #15 int
+INFO  00:34:47,219 - #15 inkrement
+INFO  00:34:47,219 - #6 (
+INFO  00:34:47,219 - #15 int
+INFO  00:34:47,219 - #15 a
+INFO  00:34:47,219 - #11 ,
+INFO  00:34:47,220 - #15 int
+INFO  00:34:47,220 - #15 inc
+INFO  00:34:47,220 - #8 =
+INFO  00:34:47,220 - #14 2
+INFO  00:34:47,220 - #7 )
+INFO  00:34:47,220 - #15 int
+INFO  00:34:47,221 - #15 pom
+INFO  00:34:47,221 - #5 ;
+INFO  00:34:47,221 - #15 int
+INFO  00:34:47,221 - #15 x
+INFO  00:34:47,221 - #5 ;
+INFO  00:34:47,221 - #3 {
+INFO  00:34:47,221 - #18 if
+INFO  00:34:47,221 - #6 (
+INFO  00:34:47,226 - #15 inc
+INFO  00:34:47,226 - #36 ==
+INFO  00:34:47,227 - #14 1
+INFO  00:34:47,227 - #7 )
+INFO  00:34:47,228 - #15 pom
+INFO  00:34:47,228 - #8 =
+INFO  00:34:47,228 - #14 1
+INFO  00:34:47,229 - #5 ;
+INFO  00:34:47,229 - #19 else
+INFO  00:34:47,229 - #18 if
+INFO  00:34:47,230 - #6 (
+INFO  00:34:47,230 - #15 inc
+INFO  00:34:47,230 - #36 ==
+INFO  00:34:47,230 - #14 2
+INFO  00:34:47,230 - #7 )
+INFO  00:34:47,230 - #15 pom
+INFO  00:34:47,230 - #8 =
+INFO  00:34:47,230 - #15 a
+INFO  00:34:47,230 - #5 ;
+INFO  00:34:47,231 - #9 return
+INFO  00:34:47,232 - #15 sum
+INFO  00:34:47,232 - #6 (
+INFO  00:34:47,232 - #15 a
+INFO  00:34:47,232 - #11 ,
+INFO  00:34:47,233 - #15 pom
+INFO  00:34:47,233 - #7 )
+INFO  00:34:47,233 - #5 ;
+INFO  00:34:47,233 - #4 }
+INFO  00:34:47,233 - #15 bool
+INFO  00:34:47,234 - #15 verify
+INFO  00:34:47,234 - #6 (
+INFO  00:34:47,234 - #7 )
+INFO  00:34:47,235 - #3 {
+INFO  00:34:47,235 - #12 print
+INFO  00:34:47,235 - #6 (
+INFO  00:34:47,235 - #16 v
+INFO  00:34:47,235 - #7 )
+INFO  00:34:47,236 - #5 ;
+INFO  00:34:47,236 - #9 return
+INFO  00:34:47,236 - #17 false
+INFO  00:34:47,236 - #5 ;
+INFO  00:34:47,236 - #4 }
+INFO  00:34:47,236 - #13 void
+INFO  00:34:47,236 - #15 main
+INFO  00:34:47,236 - #6 (
+INFO  00:34:47,236 - #7 )
+INFO  00:34:47,236 - #3 {
+INFO  00:34:47,237 - #12 print
+INFO  00:34:47,237 - #6 (
+INFO  00:34:47,237 - #15 sum
+INFO  00:34:47,237 - #6 (
+INFO  00:34:47,237 - #7 )
+INFO  00:34:47,238 - #7 )
+INFO  00:34:47,238 - #5 ;
+INFO  00:34:47,238 - #12 print
+INFO  00:34:47,238 - #6 (
+INFO  00:34:47,238 - #15 sum
+INFO  00:34:47,238 - #6 (
+INFO  00:34:47,238 - #14 2
+INFO  00:34:47,238 - #7 )
+INFO  00:34:47,238 - #7 )
+INFO  00:34:47,238 - #5 ;
+INFO  00:34:47,239 - #18 if
+INFO  00:34:47,239 - #6 (
+INFO  00:34:47,239 - #14 1
+INFO  00:34:47,239 - #37 !=
+INFO  00:34:47,239 - #14 1
+INFO  00:34:47,239 - #7 )
+INFO  00:34:47,239 - #12 print
+INFO  00:34:47,240 - #6 (
+INFO  00:34:47,240 - #30 -
+INFO  00:34:47,240 - #14 6
+INFO  00:34:47,240 - #7 )
+INFO  00:34:47,240 - #5 ;
+INFO  00:34:47,240 - #19 else
+INFO  00:34:47,240 - #12 print
+INFO  00:34:47,240 - #6 (
+INFO  00:34:47,240 - #14 0
+INFO  00:34:47,240 - #7 )
+INFO  00:34:47,240 - #5 ;
+INFO  00:34:47,240 - #15 ibool
+INFO  00:34:47,240 - #8 =
+INFO  00:34:47,240 - #17 false
+INFO  00:34:47,240 - #5 ;
+INFO  00:34:47,240 - #15 i
+INFO  00:34:47,240 - #8 =
+INFO  00:34:47,241 - #14 0
+INFO  00:34:47,241 - #5 ;
+INFO  00:34:47,241 - #24 do
+INFO  00:34:47,241 - #3 {
+INFO  00:34:47,241 - #18 if
+INFO  00:34:47,242 - #6 (
+INFO  00:34:47,242 - #15 i
+INFO  00:34:47,242 - #36 ==
+INFO  00:34:47,242 - #14 2
+INFO  00:34:47,242 - #7 )
+INFO  00:34:47,242 - #15 ibool
+INFO  00:34:47,242 - #8 =
+INFO  00:34:47,242 - #17 true
+INFO  00:34:47,242 - #5 ;
+INFO  00:34:47,242 - #15 i
+INFO  00:34:47,242 - #44 ++
+INFO  00:34:47,242 - #5 ;
+INFO  00:34:47,242 - #4 }
+INFO  00:34:47,242 - #25 while
+INFO  00:34:47,242 - #6 (
+INFO  00:34:47,242 - #15 i
+INFO  00:34:47,242 - #39 <
+INFO  00:34:47,243 - #14 5
+INFO  00:34:47,243 - #7 )
+INFO  00:34:47,243 - #5 ;
+INFO  00:34:47,243 - #18 if
+INFO  00:34:47,244 - #6 (
+INFO  00:34:47,244 - #15 ibool
+INFO  00:34:47,244 - #7 )
+INFO  00:34:47,244 - #18 if
+INFO  00:34:47,244 - #6 (
+INFO  00:34:47,244 - #15 i
+INFO  00:34:47,244 - #36 ==
+INFO  00:34:47,244 - #14 5
+INFO  00:34:47,244 - #7 )
+INFO  00:34:47,244 - #12 print
+INFO  00:34:47,244 - #6 (
+INFO  00:34:47,244 - #14 1
+INFO  00:34:47,244 - #7 )
+INFO  00:34:47,245 - #5 ;
+INFO  00:34:47,245 - #19 else
+INFO  00:34:47,245 - #12 print
+INFO  00:34:47,245 - #6 (
+INFO  00:34:47,245 - #30 -
+INFO  00:34:47,245 - #14 1
+INFO  00:34:47,245 - #7 )
+INFO  00:34:47,245 - #5 ;
+INFO  00:34:47,245 - #15 a
+INFO  00:34:47,245 - #8 =
+INFO  00:34:47,245 - #14 2
+INFO  00:34:47,245 - #5 ;
+INFO  00:34:47,245 - #15 niz
+INFO  00:34:47,245 - #8 =
+INFO  00:34:47,245 - #26 new
+INFO  00:34:47,245 - #15 int
+INFO  00:34:47,245 - #33 [
+INFO  00:34:47,245 - #14 3
+INFO  00:34:47,245 - #34 ]
+INFO  00:34:47,245 - #5 ;
+INFO  00:34:47,246 - #15 niz
+INFO  00:34:47,246 - #33 [
+INFO  00:34:47,246 - #14 0
+INFO  00:34:47,246 - #34 ]
+INFO  00:34:47,246 - #8 =
+INFO  00:34:47,246 - #14 1
+INFO  00:34:47,246 - #31 *
+INFO  00:34:47,246 - #15 a
+INFO  00:34:47,247 - #5 ;
+INFO  00:34:47,247 - #15 niz
+INFO  00:34:47,247 - #33 [
+INFO  00:34:47,247 - #14 1
+INFO  00:34:47,247 - #34 ]
+INFO  00:34:47,247 - #8 =
+INFO  00:34:47,247 - #14 2
+INFO  00:34:47,248 - #31 *
+INFO  00:34:47,248 - #15 a
+INFO  00:34:47,248 - #5 ;
+INFO  00:34:47,248 - #15 niz
+INFO  00:34:47,248 - #33 [
+INFO  00:34:47,248 - #14 2
+INFO  00:34:47,248 - #34 ]
+INFO  00:34:47,248 - #8 =
+INFO  00:34:47,248 - #15 sum
+INFO  00:34:47,248 - #6 (
+INFO  00:34:47,248 - #15 niz
+INFO  00:34:47,248 - #33 [
+INFO  00:34:47,248 - #14 1
+INFO  00:34:47,248 - #34 ]
+INFO  00:34:47,248 - #11 ,
+INFO  00:34:47,248 - #15 niz
+INFO  00:34:47,248 - #33 [
+INFO  00:34:47,248 - #14 0
+INFO  00:34:47,248 - #34 ]
+INFO  00:34:47,248 - #7 )
+INFO  00:34:47,248 - #31 *
+INFO  00:34:47,248 - #15 a
+INFO  00:34:47,248 - #10 +
+INFO  00:34:47,248 - #14 1
+INFO  00:34:47,248 - #5 ;
+INFO  00:34:47,249 - #18 if
+INFO  00:34:47,249 - #6 (
+INFO  00:34:47,250 - #15 verify
+INFO  00:34:47,250 - #6 (
+INFO  00:34:47,250 - #7 )
+INFO  00:34:47,250 - #43 ||
+INFO  00:34:47,250 - #15 niz
+INFO  00:34:47,250 - #33 [
+INFO  00:34:47,250 - #14 2
+INFO  00:34:47,250 - #34 ]
+INFO  00:34:47,250 - #36 ==
+INFO  00:34:47,250 - #14 4
+INFO  00:34:47,250 - #7 )
+INFO  00:34:47,251 - #12 print
+INFO  00:34:47,251 - #6 (
+INFO  00:34:47,251 - #15 ord
+INFO  00:34:47,251 - #6 (
+INFO  00:34:47,251 - #16 A
+INFO  00:34:47,251 - #7 )
+INFO  00:34:47,251 - #7 )
+INFO  00:34:47,252 - #5 ;
+INFO  00:34:47,252 - #19 else
+INFO  00:34:47,252 - #12 print
+INFO  00:34:47,252 - #6 (
+INFO  00:34:47,252 - #15 ord
+INFO  00:34:47,252 - #6 (
+INFO  00:34:47,252 - #16 a
+INFO  00:34:47,252 - #7 )
+INFO  00:34:47,252 - #7 )
+INFO  00:34:47,252 - #5 ;
+INFO  00:34:47,252 - #12 print
+INFO  00:34:47,252 - #6 (
+INFO  00:34:47,252 - #16 B
+INFO  00:34:47,252 - #7 )
+INFO  00:34:47,252 - #5 ;
+INFO  00:34:47,252 - #12 print
+INFO  00:34:47,252 - #6 (
+INFO  00:34:47,252 - #15 eol
+INFO  00:34:47,252 - #7 )
+INFO  00:34:47,252 - #5 ;
+INFO  00:34:47,253 - #12 print
+INFO  00:34:47,253 - #6 (
+INFO  00:34:47,253 - #16 C
+INFO  00:34:47,253 - #7 )
+INFO  00:34:47,253 - #5 ;
+INFO  00:34:47,253 - #15 i
+INFO  00:34:47,253 - #8 =
+INFO  00:34:47,253 - #14 0
+INFO  00:34:47,253 - #5 ;
+INFO  00:34:47,253 - #15 i
+INFO  00:34:47,253 - #44 ++
+INFO  00:34:47,253 - #5 ;
+INFO  00:34:47,253 - #24 do
+INFO  00:34:47,253 - #3 {
+INFO  00:34:47,253 - #12 print
+INFO  00:34:47,253 - #6 (
+INFO  00:34:47,253 - #15 i
+INFO  00:34:47,253 - #7 )
+INFO  00:34:47,253 - #5 ;
+INFO  00:34:47,253 - #18 if
+INFO  00:34:47,254 - #6 (
+INFO  00:34:47,254 - #15 i
+INFO  00:34:47,254 - #36 ==
+INFO  00:34:47,254 - #14 3
+INFO  00:34:47,254 - #7 )
+INFO  00:34:47,254 - #3 {
+INFO  00:34:47,254 - #15 i
+INFO  00:34:47,255 - #44 ++
+INFO  00:34:47,255 - #5 ;
+INFO  00:34:47,255 - #28 continue
+INFO  00:34:47,255 - #5 ;
+INFO  00:34:47,255 - #4 }
+INFO  00:34:47,257 - #18 if
+INFO  00:34:47,259 - #6 (
+INFO  00:34:47,259 - #15 i
+INFO  00:34:47,260 - #36 ==
+INFO  00:34:47,260 - #14 4
+INFO  00:34:47,260 - #7 )
+INFO  00:34:47,260 - #20 break
+INFO  00:34:47,260 - #5 ;
+INFO  00:34:47,260 - #15 i
+INFO  00:34:47,261 - #8 =
+INFO  00:34:47,261 - #15 inkrement
+INFO  00:34:47,261 - #6 (
+INFO  00:34:47,261 - #15 i
+INFO  00:34:47,261 - #7 )
+INFO  00:34:47,261 - #5 ;
+INFO  00:34:47,262 - #4 }
+INFO  00:34:47,262 - #25 while
+INFO  00:34:47,262 - #6 (
+INFO  00:34:47,262 - #15 i
+INFO  00:34:47,262 - #39 <
+INFO  00:34:47,262 - #14 10
+INFO  00:34:47,262 - #7 )
+INFO  00:34:47,262 - #5 ;
+INFO  00:34:47,262 - #18 if
+INFO  00:34:47,262 - #6 (
+INFO  00:34:47,262 - #15 i
+INFO  00:34:47,262 - #36 ==
+INFO  00:34:47,262 - #14 3
+INFO  00:34:47,262 - #42 &&
+INFO  00:34:47,262 - #15 verify
+INFO  00:34:47,262 - #6 (
+INFO  00:34:47,262 - #7 )
+INFO  00:34:47,262 - #7 )
+INFO  00:34:47,263 - #12 print
+INFO  00:34:47,263 - #6 (
+INFO  00:34:47,263 - #30 -
+INFO  00:34:47,263 - #14 4
+INFO  00:34:47,263 - #7 )
+INFO  00:34:47,263 - #5 ;
+INFO  00:34:47,263 - #19 else
+INFO  00:34:47,263 - #12 print
+INFO  00:34:47,263 - #6 (
+INFO  00:34:47,263 - #14 4
+INFO  00:34:47,263 - #7 )
+INFO  00:34:47,263 - #5 ;
+INFO  00:34:47,263 - #27 read
+INFO  00:34:47,263 - #6 (
+INFO  00:34:47,263 - #15 niz
+INFO  00:34:47,263 - #33 [
+INFO  00:34:47,263 - #14 0
+INFO  00:34:47,263 - #34 ]
+INFO  00:34:47,263 - #7 )
+INFO  00:34:47,263 - #5 ;
+INFO  00:34:47,263 - #15 niz
+INFO  00:34:47,264 - #33 [
+INFO  00:34:47,264 - #14 0
+INFO  00:34:47,264 - #34 ]
+INFO  00:34:47,264 - #8 =
+INFO  00:34:47,264 - #14 1
+INFO  00:34:47,264 - #5 ;
+INFO  00:34:47,264 - #15 niz
+INFO  00:34:47,264 - #33 [
+INFO  00:34:47,264 - #14 1
+INFO  00:34:47,264 - #34 ]
+INFO  00:34:47,264 - #8 =
+INFO  00:34:47,264 - #14 2
+INFO  00:34:47,264 - #5 ;
+INFO  00:34:47,264 - #15 niz
+INFO  00:34:47,264 - #33 [
+INFO  00:34:47,264 - #14 2
+INFO  00:34:47,264 - #34 ]
+INFO  00:34:47,264 - #8 =
+INFO  00:34:47,264 - #14 3
+INFO  00:34:47,264 - #5 ;
+INFO  00:34:47,264 - #12 print
+INFO  00:34:47,265 - #6 (
+INFO  00:34:47,265 - #15 eol
+INFO  00:34:47,265 - #7 )
+INFO  00:34:47,265 - #5 ;
+INFO  00:34:47,265 - #12 print
+INFO  00:34:47,265 - #6 (
+INFO  00:34:47,265 - #15 sum
+INFO  00:34:47,265 - #6 (
+INFO  00:34:47,265 - #15 sum
+INFO  00:34:47,265 - #6 (
+INFO  00:34:47,265 - #15 niz
+INFO  00:34:47,265 - #33 [
+INFO  00:34:47,265 - #14 0
+INFO  00:34:47,265 - #34 ]
+INFO  00:34:47,265 - #11 ,
+INFO  00:34:47,265 - #15 niz
+INFO  00:34:47,265 - #33 [
+INFO  00:34:47,265 - #14 1
+INFO  00:34:47,265 - #34 ]
+INFO  00:34:47,265 - #7 )
+INFO  00:34:47,265 - #11 ,
+INFO  00:34:47,265 - #15 niz
+INFO  00:34:47,265 - #33 [
+INFO  00:34:47,265 - #14 2
+INFO  00:34:47,265 - #34 ]
+INFO  00:34:47,265 - #7 )
+INFO  00:34:47,266 - #7 )
+INFO  00:34:47,266 - #5 ;
+INFO  00:34:47,266 - #12 print
+INFO  00:34:47,266 - #6 (
+INFO  00:34:47,266 - #15 eol
+INFO  00:34:47,266 - #7 )
+INFO  00:34:47,266 - #5 ;
+INFO  00:34:47,266 - #12 print
+INFO  00:34:47,266 - #6 (
+INFO  00:34:47,266 - #15 inkrement
+INFO  00:34:47,266 - #6 (
+INFO  00:34:47,266 - #15 niz
+INFO  00:34:47,266 - #33 [
+INFO  00:34:47,266 - #14 2
+INFO  00:34:47,266 - #34 ]
+INFO  00:34:47,266 - #11 ,
+INFO  00:34:47,266 - #14 2
+INFO  00:34:47,266 - #7 )
+INFO  00:34:47,266 - #7 )
+INFO  00:34:47,266 - #5 ;
+INFO  00:34:47,266 - #15 ibool
+INFO  00:34:47,266 - #8 =
+INFO  00:34:47,266 - #15 verify
+INFO  00:34:47,266 - #6 (
+INFO  00:34:47,266 - #7 )
+INFO  00:34:47,266 - #5 ;
+INFO  00:34:47,267 - #15 a
+INFO  00:34:47,267 - #8 =
+INFO  00:34:47,267 - #14 3
+INFO  00:34:47,267 - #5 ;
+INFO  00:34:47,267 - #15 i
+INFO  00:34:47,267 - #8 =
+INFO  00:34:47,267 - #14 0
+INFO  00:34:47,267 - #5 ;
+INFO  00:34:47,267 - #24 do
+INFO  00:34:47,267 - #3 {
+INFO  00:34:47,267 - #15 niz
+INFO  00:34:47,267 - #33 [
+INFO  00:34:47,267 - #15 i
+INFO  00:34:47,267 - #34 ]
+INFO  00:34:47,267 - #8 =
+INFO  00:34:47,267 - #15 niz
+INFO  00:34:47,267 - #33 [
+INFO  00:34:47,267 - #15 i
+INFO  00:34:47,267 - #34 ]
+INFO  00:34:47,268 - #31 *
+INFO  00:34:47,268 - #14 2
+INFO  00:34:47,268 - #31 *
+INFO  00:34:47,268 - #15 a
+INFO  00:34:47,268 - #5 ;
+INFO  00:34:47,268 - #15 i
+INFO  00:34:47,268 - #44 ++
+INFO  00:34:47,268 - #5 ;
+INFO  00:34:47,268 - #4 }
+INFO  00:34:47,268 - #25 while
+INFO  00:34:47,268 - #6 (
+INFO  00:34:47,268 - #15 i
+INFO  00:34:47,268 - #39 <
+INFO  00:34:47,268 - #14 3
+INFO  00:34:47,268 - #7 )
+INFO  00:34:47,268 - #5 ;
+INFO  00:34:47,268 - #12 print
+INFO  00:34:47,268 - #6 (
+INFO  00:34:47,268 - #15 niz
+INFO  00:34:47,268 - #33 [
+INFO  00:34:47,269 - #14 0
+INFO  00:34:47,269 - #34 ]
+INFO  00:34:47,269 - #7 )
+INFO  00:34:47,269 - #5 ;
+INFO  00:34:47,269 - #12 print
+INFO  00:34:47,269 - #6 (
+INFO  00:34:47,269 - #15 niz
+INFO  00:34:47,269 - #33 [
+INFO  00:34:47,269 - #14 1
+INFO  00:34:47,269 - #34 ]
+INFO  00:34:47,269 - #7 )
+INFO  00:34:47,269 - #5 ;
+INFO  00:34:47,269 - #12 print
+INFO  00:34:47,269 - #6 (
+INFO  00:34:47,269 - #15 niz
+INFO  00:34:47,269 - #33 [
+INFO  00:34:47,269 - #14 2
+INFO  00:34:47,269 - #34 ]
+INFO  00:34:47,269 - #7 )
+INFO  00:34:47,269 - #5 ;
+INFO  00:34:47,269 - #12 print
+INFO  00:34:47,270 - #6 (
+INFO  00:34:47,270 - #15 eol
+INFO  00:34:47,270 - #7 )
+INFO  00:34:47,270 - #5 ;
+INFO  00:34:47,270 - #15 i
+INFO  00:34:47,270 - #8 =
+INFO  00:34:47,270 - #14 0
+INFO  00:34:47,270 - #5 ;
+INFO  00:34:47,270 - #15 niz2
+INFO  00:34:47,270 - #8 =
+INFO  00:34:47,270 - #14 0
+INFO  00:34:47,270 - #5 ;
+INFO  00:34:47,270 - #24 do
+INFO  00:34:47,270 - #3 {
+INFO  00:34:47,270 - #15 niz2
+INFO  00:34:47,270 - #8 =
+INFO  00:34:47,270 - #15 niz2
+INFO  00:34:47,270 - #10 +
+INFO  00:34:47,270 - #15 niz
+INFO  00:34:47,270 - #33 [
+INFO  00:34:47,270 - #15 i
+INFO  00:34:47,270 - #34 ]
+INFO  00:34:47,271 - #31 *
+INFO  00:34:47,271 - #15 niz
+INFO  00:34:47,271 - #33 [
+INFO  00:34:47,271 - #15 i
+INFO  00:34:47,271 - #34 ]
+INFO  00:34:47,271 - #5 ;
+INFO  00:34:47,271 - #15 i
+INFO  00:34:47,271 - #44 ++
+INFO  00:34:47,271 - #5 ;
+INFO  00:34:47,272 - #4 }
+INFO  00:34:47,272 - #25 while
+INFO  00:34:47,272 - #6 (
+INFO  00:34:47,272 - #15 i
+INFO  00:34:47,272 - #39 <
+INFO  00:34:47,272 - #14 3
+INFO  00:34:47,272 - #7 )
+INFO  00:34:47,272 - #5 ;
+INFO  00:34:47,272 - #12 print
+INFO  00:34:47,272 - #6 (
+INFO  00:34:47,272 - #15 niz2
+INFO  00:34:47,272 - #7 )
+INFO  00:34:47,272 - #5 ;
+INFO  00:34:47,272 - #4 }
+INFO  00:34:47,272 - #4 }
+INFO  00:34:47,325 - ===================================
+INFO  00:34:47,329 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  00:34:47,329 - Deklarisana globalna konstanta jedan=1 na liniji 5
+INFO  00:34:47,329 - Deklarisana globalna promenljiva i na liniji 7
+INFO  00:34:47,329 - Deklarisana globalna promenljiva ibool na liniji 8
+INFO  00:34:47,330 - Deklarisana globalna promenljiva niz2 na liniji 10
+INFO  00:34:47,330 - Deklarisana globalna promenljiva niz3 na liniji 10
+INFO  00:34:47,330 - Deklarisana globaln promenljiva niz[] na liniji 12
+INFO  00:34:47,330 - Deklarisana globalna promenljiva a na liniji 13
+INFO  00:34:47,330 - Obradjuje se funkcija sum na liniji 17
+INFO  00:34:47,330 - Deklarisana lokalna/parametar promenljiva z na liniji 17
+INFO  00:34:47,330 - Deklarisana lokalna/parametar promenljiva d na liniji 17
+INFO  00:34:47,330 - Koristi se promenljiva: z na liniji 19 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  00:34:47,330 - Koristi se promenljiva: d na liniji 19 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  00:34:47,330 - KRAJ Funkcije: sum
+INFO  00:34:47,330 - Obradjuje se funkcija inkrement na liniji 23
+INFO  00:34:47,330 - Deklarisana lokalna/parametar promenljiva a na liniji 23
+INFO  00:34:47,330 - Deklarisana lokalna/parametar promenljiva inc na liniji 23
+INFO  00:34:47,330 - Deklarisana lokalna promenljiva pom na liniji 34
+INFO  00:34:47,330 - Deklarisana lokalna promenljiva x na liniji 34
+INFO  00:34:47,330 - Koristi se promenljiva: inc na liniji 27 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  00:34:47,331 - Koristi se promenljiva: pom na liniji 27 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c4437c4
+INFO  00:34:47,331 - Koristi se promenljiva: inc na liniji 28 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  00:34:47,331 - Koristi se promenljiva: pom na liniji 28 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c4437c4
+INFO  00:34:47,331 - Koristi se promenljiva: a na liniji 28 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@433c675d
+INFO  00:34:47,331 - Koristi se promenljiva: a na liniji 30 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@433c675d
+INFO  00:34:47,331 - Koristi se promenljiva: pom na liniji 30 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c4437c4
+INFO  00:34:47,331 - Pronadjen poziv funkcije sum na liniji 30 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,332 - KRAJ Funkcije: inkrement
+INFO  00:34:47,332 - Obradjuje se funkcija verify na liniji 33
+INFO  00:34:47,332 - Poziv funkcije print na liniji 34
+INFO  00:34:47,332 - KRAJ Funkcije: verify
+INFO  00:34:47,332 - Obradjuje se funkcija main na liniji 38
+INFO  00:34:47,332 - Pronadjen poziv funkcije sum na liniji 41 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,332 - Poziv funkcije print na liniji 41
+INFO  00:34:47,332 - Pronadjen poziv funkcije sum na liniji 42 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,332 - Poziv funkcije print na liniji 42
+INFO  00:34:47,332 - Poziv funkcije print na liniji 43
+INFO  00:34:47,332 - Poziv funkcije print na liniji 44
+INFO  00:34:47,332 - Koristi se promenljiva: ibool na liniji 46 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1a6c5a9e
+INFO  00:34:47,332 - Koristi se promenljiva: i na liniji 47 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,333 - Koristi se promenljiva: i na liniji 49 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,333 - Koristi se promenljiva: ibool na liniji 49 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1a6c5a9e
+INFO  00:34:47,333 - Koristi se promenljiva: i na liniji 50 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,333 - Koristi se promenljiva: i na liniji 51 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,333 - Koristi se promenljiva: ibool na liniji 53 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1a6c5a9e
+INFO  00:34:47,333 - Koristi se promenljiva: i na liniji 54 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,333 - Poziv funkcije print na liniji 54
+INFO  00:34:47,333 - Poziv funkcije print na liniji 55
+INFO  00:34:47,333 - Koristi se promenljiva: a na liniji 56 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,333 - Koristi se promenljiva: niz na liniji 57 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Pronadjen pristup nizu niz na liniji 58 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Koristi se promenljiva: a na liniji 58 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,333 - Pronadjen pristup nizu niz na liniji 59 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Koristi se promenljiva: a na liniji 59 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,333 - Pronadjen pristup nizu niz na liniji 60 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Pronadjen pristup nizu niz na liniji 60 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Pronadjen pristup nizu niz na liniji 60 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,333 - Pronadjen poziv funkcije sum na liniji 60 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,333 - Koristi se promenljiva: a na liniji 60 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,333 - Pronadjen poziv funkcije verify na liniji 61 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@5d099f62
+INFO  00:34:47,334 - Pronadjen pristup nizu niz na liniji 61 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,334 - Pronadjen poziv funkcije ord na liniji 61 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37f8bb67
+INFO  00:34:47,334 - Poziv funkcije print na liniji 61
+INFO  00:34:47,334 - Pronadjen poziv funkcije ord na liniji 62 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37f8bb67
+INFO  00:34:47,334 - Poziv funkcije print na liniji 62
+INFO  00:34:47,334 - Poziv funkcije print na liniji 63
+INFO  00:34:47,334 - Koristi se promenljiva: eol na liniji 64 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@49c2faae
+INFO  00:34:47,334 - Poziv funkcije print na liniji 64
+INFO  00:34:47,334 - Poziv funkcije print na liniji 65
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 66 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 67 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 69 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Poziv funkcije print na liniji 69
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 70 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 72 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 75 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 76 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 76 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Pronadjen poziv funkcije inkrement na liniji 76 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@20ad9418
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 77 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Koristi se promenljiva: i na liniji 79 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,334 - Pronadjen poziv funkcije verify na liniji 79 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@5d099f62
+INFO  00:34:47,334 - Poziv funkcije print na liniji 79
+INFO  00:34:47,335 - Poziv funkcije print na liniji 80
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 82 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Poziv funkcije read na liniji 82
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 85 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 86 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 87 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Koristi se promenljiva: eol na liniji 88 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@49c2faae
+INFO  00:34:47,335 - Poziv funkcije print na liniji 88
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 89 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 89 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen poziv funkcije sum na liniji 89 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 89 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen poziv funkcije sum na liniji 89 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  00:34:47,335 - Poziv funkcije print na liniji 89
+INFO  00:34:47,335 - Koristi se promenljiva: eol na liniji 91 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@49c2faae
+INFO  00:34:47,335 - Poziv funkcije print na liniji 91
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 92 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Pronadjen poziv funkcije inkrement na liniji 92 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@20ad9418
+INFO  00:34:47,335 - Poziv funkcije print na liniji 92
+INFO  00:34:47,335 - Koristi se promenljiva: ibool na liniji 93 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1a6c5a9e
+INFO  00:34:47,335 - Pronadjen poziv funkcije verify na liniji 93 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@5d099f62
+INFO  00:34:47,335 - Koristi se promenljiva: a na liniji 95 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,335 - Koristi se promenljiva: i na liniji 96 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,335 - Koristi se promenljiva: i na liniji 98 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 98 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Koristi se promenljiva: i na liniji 98 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,335 - Pronadjen pristup nizu niz na liniji 98 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,335 - Koristi se promenljiva: a na liniji 98 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@179d3b25
+INFO  00:34:47,335 - Koristi se promenljiva: i na liniji 99 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 100 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Pronadjen pristup nizu niz na liniji 101 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,336 - Poziv funkcije print na liniji 101
+INFO  00:34:47,336 - Pronadjen pristup nizu niz na liniji 102 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,336 - Poziv funkcije print na liniji 102
+INFO  00:34:47,336 - Pronadjen pristup nizu niz na liniji 103 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,336 - Poziv funkcije print na liniji 103
+INFO  00:34:47,336 - Koristi se promenljiva: eol na liniji 104 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@49c2faae
+INFO  00:34:47,336 - Poziv funkcije print na liniji 104
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 106 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Koristi se promenljiva: niz2 na liniji 107 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@31cefde0
+INFO  00:34:47,336 - Koristi se promenljiva: niz2 na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@31cefde0
+INFO  00:34:47,336 - Koristi se promenljiva: niz2 na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@31cefde0
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Pronadjen pristup nizu niz na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Pronadjen pristup nizu niz na liniji 109 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@254989ff
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 110 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Koristi se promenljiva: i na liniji 111 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@37bba400
+INFO  00:34:47,336 - Koristi se promenljiva: niz2 na liniji 112 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@31cefde0
+INFO  00:34:47,336 - Poziv funkcije print na liniji 112
+INFO  00:34:47,336 - KRAJ Funkcije: main
+INFO  00:34:47,337 -  Print count calls = 24
+INFO  00:34:47,337 -  Deklarisanih globalnih promenljivih ima = 6
+INFO  00:34:47,337 - ===================================
+INFO  00:34:47,350 - Parsiranje uspesno zavrseno!

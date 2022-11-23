@@ -1,0 +1,325 @@
+INFO  20:46:46,793 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\3 Semanticka Analiza\MJCompiler_SemAna\test\program.mj
+INFO  20:46:46,843 - #2 program
+INFO  20:46:46,843 - #15 MJProgram
+INFO  20:46:46,844 - #15 int
+INFO  20:46:46,845 - #15 x
+INFO  20:46:46,846 - #5 ;
+INFO  20:46:46,847 - #15 int
+INFO  20:46:46,847 - #15 y
+INFO  20:46:46,847 - #5 ;
+INFO  20:46:46,847 - #3 {
+INFO  20:46:46,848 - #15 int
+INFO  20:46:46,849 - #15 k
+INFO  20:46:46,849 - #6 (
+INFO  20:46:46,849 - #7 )
+INFO  20:46:46,850 - #15 int
+INFO  20:46:46,850 - #15 c
+INFO  20:46:46,850 - #5 ;
+INFO  20:46:46,850 - #3 {
+INFO  20:46:46,850 - #15 c
+INFO  20:46:46,851 - #8 =
+INFO  20:46:46,852 - #14 1
+INFO  20:46:46,852 - #5 ;
+INFO  20:46:46,853 - #9 return
+INFO  20:46:46,854 - #15 c
+INFO  20:46:46,854 - #10 +
+INFO  20:46:46,854 - #14 2
+INFO  20:46:46,854 - #5 ;
+INFO  20:46:46,855 - #4 }
+INFO  20:46:46,855 - #15 int
+INFO  20:46:46,855 - #15 main
+INFO  20:46:46,856 - #6 (
+INFO  20:46:46,856 - #7 )
+INFO  20:46:46,856 - #3 {
+INFO  20:46:46,856 - #15 y
+INFO  20:46:46,856 - #8 =
+INFO  20:46:46,856 - #14 2
+INFO  20:46:46,856 - #5 ;
+INFO  20:46:46,856 - #15 x
+INFO  20:46:46,856 - #8 =
+INFO  20:46:46,856 - #15 y
+INFO  20:46:46,856 - #10 +
+INFO  20:46:46,856 - #14 2
+INFO  20:46:46,856 - #5 ;
+INFO  20:46:46,856 - #15 y
+INFO  20:46:46,856 - #8 =
+INFO  20:46:46,857 - #15 k
+INFO  20:46:46,857 - #6 (
+INFO  20:46:46,857 - #7 )
+INFO  20:46:46,858 - #10 +
+INFO  20:46:46,858 - #14 3
+INFO  20:46:46,858 - #5 ;
+INFO  20:46:46,858 - #12 print
+INFO  20:46:46,858 - #6 (
+INFO  20:46:46,858 - #15 y
+INFO  20:46:46,858 - #7 )
+INFO  20:46:46,859 - #5 ;
+INFO  20:46:46,859 - #9 return
+INFO  20:46:46,859 - #14 0
+INFO  20:46:46,859 - #5 ;
+INFO  20:46:46,859 - #4 }
+INFO  20:46:46,859 - #4 }
+INFO  20:46:46,874 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ProgList1(
+    VarDecl1(
+      Type(
+       int
+      ) [Type]
+     x
+      NoVarDecl(
+      ) [NoVarDecl]
+    ) [VarDecl1]
+    ProgList1(
+      VarDecl1(
+        Type(
+         int
+        ) [Type]
+       y
+        NoVarDecl(
+        ) [NoVarDecl]
+      ) [VarDecl1]
+      NoProgram3(
+      ) [NoProgram3]
+    ) [ProgList1]
+  ) [ProgList1]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl1(
+        Type(
+         int
+        ) [Type]
+       k
+        NoFormParam(
+        ) [NoFormParam]
+        VarDeclMet1(
+          NoVarDeclMet3(
+          ) [NoVarDeclMet3]
+          Type(
+           int
+          ) [Type]
+         c
+        ) [VarDeclMet1]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            StmPrvi(
+              StatementPrviDerived1(
+                SingDesStm(
+                  DesStatm(
+                    Designator(
+                     c
+                      DesignatorOpcijaDerived2(
+                      ) [DesignatorOpcijaDerived2]
+                    ) [Designator]
+                    TermExpr(
+                      Term(
+                        SimpleFactor(
+                          FnumConst(
+                           1
+                          ) [FnumConst]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [DesStatm]
+                ) [SingDesStm]
+              ) [StatementPrviDerived1]
+            ) [StmPrvi]
+          ) [Statements]
+          StmPrvi(
+            ReturnExpr(
+              AddExpr(
+                TermExpr(
+                  Term(
+                    SimpleFactor(
+                      Var(
+                        Designator(
+                         c
+                          DesignatorOpcijaDerived2(
+                          ) [DesignatorOpcijaDerived2]
+                        ) [Designator]
+                      ) [Var]
+                    ) [SimpleFactor]
+                  ) [Term]
+                ) [TermExpr]
+                Addop(
+                ) [Addop]
+                Term(
+                  SimpleFactor(
+                    FnumConst(
+                     2
+                    ) [FnumConst]
+                  ) [SimpleFactor]
+                ) [Term]
+              ) [AddExpr]
+            ) [ReturnExpr]
+          ) [StmPrvi]
+        ) [Statements]
+      ) [MethodDecl1]
+    ) [MethodDeclarations]
+    MethodDecl1(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclMet3(
+      ) [NoVarDeclMet3]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                StmPrvi(
+                  StatementPrviDerived1(
+                    SingDesStm(
+                      DesStatm(
+                        Designator(
+                         y
+                          DesignatorOpcijaDerived2(
+                          ) [DesignatorOpcijaDerived2]
+                        ) [Designator]
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              FnumConst(
+                               2
+                              ) [FnumConst]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                      ) [DesStatm]
+                    ) [SingDesStm]
+                  ) [StatementPrviDerived1]
+                ) [StmPrvi]
+              ) [Statements]
+              StmPrvi(
+                StatementPrviDerived1(
+                  SingDesStm(
+                    DesStatm(
+                      Designator(
+                       x
+                        DesignatorOpcijaDerived2(
+                        ) [DesignatorOpcijaDerived2]
+                      ) [Designator]
+                      AddExpr(
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              Var(
+                                Designator(
+                                 y
+                                  DesignatorOpcijaDerived2(
+                                  ) [DesignatorOpcijaDerived2]
+                                ) [Designator]
+                              ) [Var]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                        Addop(
+                        ) [Addop]
+                        Term(
+                          SimpleFactor(
+                            FnumConst(
+                             2
+                            ) [FnumConst]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [AddExpr]
+                    ) [DesStatm]
+                  ) [SingDesStm]
+                ) [StatementPrviDerived1]
+              ) [StmPrvi]
+            ) [Statements]
+            StmPrvi(
+              StatementPrviDerived1(
+                SingDesStm(
+                  DesStatm(
+                    Designator(
+                     y
+                      DesignatorOpcijaDerived2(
+                      ) [DesignatorOpcijaDerived2]
+                    ) [Designator]
+                    AddExpr(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FuncCall(
+                              Designator(
+                               k
+                                DesignatorOpcijaDerived2(
+                                ) [DesignatorOpcijaDerived2]
+                              ) [Designator]
+                              NoActuals(
+                              ) [NoActuals]
+                            ) [FuncCall]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                      Addop(
+                      ) [Addop]
+                      Term(
+                        SimpleFactor(
+                          FnumConst(
+                           3
+                          ) [FnumConst]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [AddExpr]
+                  ) [DesStatm]
+                ) [SingDesStm]
+              ) [StatementPrviDerived1]
+            ) [StmPrvi]
+          ) [Statements]
+          StmPrvi(
+            StatementPrviDerived1(
+              PrintStmt(
+                TermExpr(
+                  Term(
+                    SimpleFactor(
+                      Var(
+                        Designator(
+                         y
+                          DesignatorOpcijaDerived2(
+                          ) [DesignatorOpcijaDerived2]
+                        ) [Designator]
+                      ) [Var]
+                    ) [SimpleFactor]
+                  ) [Term]
+                ) [TermExpr]
+              ) [PrintStmt]
+            ) [StatementPrviDerived1]
+          ) [StmPrvi]
+        ) [Statements]
+        StmPrvi(
+          ReturnExpr(
+            TermExpr(
+              Term(
+                SimpleFactor(
+                  FnumConst(
+                   0
+                  ) [FnumConst]
+                ) [SimpleFactor]
+              ) [Term]
+            ) [TermExpr]
+          ) [ReturnExpr]
+        ) [StmPrvi]
+      ) [Statements]
+    ) [MethodDecl1]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:46:46,874 - ===================================
+INFO  20:46:46,877 - Deklarisana promenljiva x na liniji 2
+INFO  20:46:46,877 - Deklarisana promenljiva y na liniji 2
+INFO  20:46:46,877 -  Print count calls = 1
+INFO  20:46:46,877 -  Deklarisanih promenljivih ima = 2
+INFO  20:46:46,878 - ===================================
+INFO  20:46:46,881 - Parsiranje uspesno zavrseno!

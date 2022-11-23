@@ -1,0 +1,13 @@
+java -cp lib\mj-runtime.jar rs.etf.pp1.mj.runtime.Run test/program.obj
+
+
+// za DesignatorArr klasu dodati posle compile
+    private Obj arrObj;
+    
+    public Obj getArrObj() {
+    	return arrObj;
+    }
+    
+    public void setArrObj(Obj obj) {
+    	arrObj = obj;
+    }

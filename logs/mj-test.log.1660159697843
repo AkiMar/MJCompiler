@@ -1,0 +1,45 @@
+INFO  21:22:07,588 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  21:22:07,641 - #2 program
+INFO  21:22:07,641 - #15 MJProgram
+INFO  21:22:07,641 - #15 int
+INFO  21:22:07,642 - #15 x
+INFO  21:22:07,642 - #11 ,
+INFO  21:22:07,642 - #15 m
+INFO  21:22:07,642 - #5 ;
+INFO  21:22:07,643 - #3 {
+INFO  21:22:07,644 - #15 int
+INFO  21:22:07,644 - #15 k
+INFO  21:22:07,644 - #6 (
+INFO  21:22:07,645 - #7 )
+INFO  21:22:07,645 - #3 {
+INFO  21:22:07,646 - #9 return
+INFO  21:22:07,647 - #14 1
+INFO  21:22:07,647 - #5 ;
+INFO  21:22:07,648 - #4 }
+INFO  21:22:07,649 - #13 void
+INFO  21:22:07,649 - #15 main
+INFO  21:22:07,649 - #6 (
+INFO  21:22:07,649 - #7 )
+INFO  21:22:07,649 - #3 {
+INFO  21:22:07,649 - #12 print
+INFO  21:22:07,650 - #6 (
+INFO  21:22:07,650 - #14 1
+INFO  21:22:07,650 - #7 )
+INFO  21:22:07,650 - #5 ;
+INFO  21:22:07,650 - #9 return
+INFO  21:22:07,650 - #5 ;
+INFO  21:22:07,650 - #4 }
+INFO  21:22:07,651 - #4 }
+INFO  21:22:07,668 - ===================================
+INFO  21:22:07,672 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  21:22:07,673 - Deklarisana globalna promenljiva x na liniji 2
+INFO  21:22:07,673 - Deklarisana globalna promenljiva m na liniji 2
+INFO  21:22:07,673 - Obradjuje se funkcija k na liniji 5
+INFO  21:22:07,673 - KRAJ Funkcije: k
+INFO  21:22:07,673 - Obradjuje se funkcija main na liniji 10
+INFO  21:22:07,673 - Poziv funkcije print na liniji 12
+INFO  21:22:07,674 - KRAJ Funkcije: main
+INFO  21:22:07,674 -  Print count calls = 1
+INFO  21:22:07,674 -  Deklarisanih globalnih promenljivih ima = 1
+INFO  21:22:07,674 - ===================================
+INFO  21:22:07,680 - Parsiranje uspesno zavrseno!

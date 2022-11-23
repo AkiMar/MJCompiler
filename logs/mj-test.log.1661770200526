@@ -1,0 +1,55 @@
+INFO  12:46:54,191 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  12:46:54,258 - #2 program
+INFO  12:46:54,258 - #15 MJProgram
+INFO  12:46:54,258 - #15 int
+INFO  12:46:54,259 - #15 x
+INFO  12:46:54,260 - #11 ,
+INFO  12:46:54,260 - #15 m
+INFO  12:46:54,260 - #5 ;
+INFO  12:46:54,261 - #15 char
+INFO  12:46:54,261 - #15 ch
+INFO  12:46:54,261 - #5 ;
+INFO  12:46:54,262 - #15 int
+INFO  12:46:54,262 - #15 niz
+INFO  12:46:54,262 - #33 [
+INFO  12:46:54,262 - #34 ]
+INFO  12:46:54,262 - #5 ;
+INFO  12:46:54,262 - #15 bool
+INFO  12:46:54,262 - #15 flag
+INFO  12:46:54,262 - #5 ;
+INFO  12:46:54,262 - #3 {
+INFO  12:46:54,263 - #13 void
+INFO  12:46:54,265 - #15 main
+INFO  12:46:54,265 - #6 (
+INFO  12:46:54,266 - #7 )
+INFO  12:46:54,266 - #3 {
+INFO  12:46:54,267 - #15 niz
+INFO  12:46:54,267 - #8 =
+INFO  12:46:54,268 - #26 new
+INFO  12:46:54,268 - #33 [
+ERROR 12:46:54,268 - 
+Sintaksna greska na liniji 10 simbol greske:#33
+INFO  12:46:54,268 - #14 5
+INFO  12:46:54,268 - #34 ]
+INFO  12:46:54,268 - #5 ;
+INFO  12:46:54,269 - #15 niz
+INFO  12:46:54,269 - #14 2
+INFO  12:46:54,269 - #5 ;
+INFO  12:46:54,269 - #9 return
+INFO  12:46:54,269 - #5 ;
+INFO  12:46:54,269 - #4 }
+ERROR 12:46:54,269 - Izvrsen oporavak do ; u liniji 10
+INFO  12:46:54,271 - #4 }
+INFO  12:46:54,284 - ===================================
+INFO  12:46:54,289 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 rs.etf.pp1.symboltable.concepts.Struct@6193b845
+INFO  12:46:54,289 - Deklarisana globalna promenljiva x na liniji 2
+INFO  12:46:54,289 - Deklarisana globalna promenljiva m na liniji 2
+INFO  12:46:54,289 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  12:46:54,290 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  12:46:54,290 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  12:46:54,290 - Obradjuje se funkcija main na liniji 8
+INFO  12:46:54,290 - KRAJ Funkcije: main
+INFO  12:46:54,290 -  Print count calls = 0
+INFO  12:46:54,290 -  Deklarisanih globalnih promenljivih ima = 4
+INFO  12:46:54,290 - ===================================
+ERROR 12:46:54,292 - Parsiranje NIJE uspesno zavrseno!

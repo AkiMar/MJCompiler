@@ -1,0 +1,51 @@
+INFO  20:45:07,096 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  20:45:07,154 - #2 program
+INFO  20:45:07,154 - #15 MJProgram
+INFO  20:45:07,155 - #15 int
+INFO  20:45:07,155 - #15 x
+INFO  20:45:07,156 - #11 ,
+INFO  20:45:07,156 - #15 m
+INFO  20:45:07,156 - #5 ;
+INFO  20:45:07,157 - #15 bool
+INFO  20:45:07,157 - #15 k
+INFO  20:45:07,157 - #6 (
+ERROR 20:45:07,157 - 
+Sintaksna greska na liniji 3 simbol greske:#6
+INFO  20:45:07,157 - #15 int
+INFO  20:45:07,157 - #15 a
+INFO  20:45:07,157 - #11 ,
+INFO  20:45:07,158 - #15 int
+INFO  20:45:07,158 - #15 b
+INFO  20:45:07,158 - #11 ,
+INFO  20:45:07,158 - #15 int
+INFO  20:45:07,158 - #15 c
+INFO  20:45:07,159 - #8 =
+INFO  20:45:07,159 - #14 5
+INFO  20:45:07,159 - #7 )
+INFO  20:45:07,159 - #15 int
+INFO  20:45:07,159 - #15 b
+INFO  20:45:07,159 - #5 ;
+INFO  20:45:07,159 - #15 int
+INFO  20:45:07,159 - #15 d
+INFO  20:45:07,159 - #5 ;
+ERROR 20:45:07,159 - Izvrsen oporavak do ; u liniji 3
+INFO  20:45:07,167 - #15 int
+INFO  20:45:07,168 - #15 v
+INFO  20:45:07,168 - #5 ;
+INFO  20:45:07,168 - #3 {
+INFO  20:45:07,169 - #9 return
+ERROR 20:45:07,169 - 
+Sintaksna greska na liniji 6 simbol greske:#9
+INFO  20:45:07,169 - #17 true
+INFO  20:45:07,169 - #5 ;
+INFO  20:45:07,169 - #4 }
+INFO  20:45:07,169 - #13 void
+INFO  20:45:07,169 - #15 main
+INFO  20:45:07,169 - #6 (
+INFO  20:45:07,169 - #7 )
+INFO  20:45:07,169 - #3 {
+INFO  20:45:07,169 - #9 return
+INFO  20:45:07,169 - #5 ;
+INFO  20:45:07,169 - #4 }
+INFO  20:45:07,170 - #4 }
+ERROR 20:45:07,170 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12 simbol greske:#0

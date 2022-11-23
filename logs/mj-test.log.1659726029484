@@ -1,0 +1,172 @@
+INFO  20:59:33,239 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\3 Semanticka Analiza\MJCompiler_SemAna\test\program.mj
+INFO  20:59:33,292 - #2 program
+INFO  20:59:33,293 - #15 MJProgram
+INFO  20:59:33,293 - #15 int
+INFO  20:59:33,294 - #15 x
+INFO  20:59:33,294 - #11 ,
+INFO  20:59:33,294 - #15 m
+INFO  20:59:33,294 - #5 ;
+INFO  20:59:33,295 - #15 char
+INFO  20:59:33,295 - #15 y
+INFO  20:59:33,295 - #5 ;
+INFO  20:59:33,295 - #15 int
+INFO  20:59:33,296 - #15 niz
+INFO  20:59:33,296 - #33 [
+INFO  20:59:33,296 - #34 ]
+INFO  20:59:33,296 - #5 ;
+INFO  20:59:33,296 - #15 int
+INFO  20:59:33,296 - #15 x
+INFO  20:59:33,296 - #5 ;
+INFO  20:59:33,296 - #15 int
+INFO  20:59:33,296 - #15 niz
+INFO  20:59:33,297 - #5 ;
+INFO  20:59:33,297 - #3 {
+INFO  20:59:33,298 - #15 char
+INFO  20:59:33,298 - #15 k
+INFO  20:59:33,298 - #6 (
+INFO  20:59:33,299 - #15 int
+INFO  20:59:33,299 - #15 a
+INFO  20:59:33,299 - #11 ,
+INFO  20:59:33,299 - #15 int
+INFO  20:59:33,299 - #15 b
+INFO  20:59:33,299 - #11 ,
+INFO  20:59:33,299 - #15 int
+INFO  20:59:33,299 - #15 c
+INFO  20:59:33,299 - #8 =
+INFO  20:59:33,300 - #14 5
+INFO  20:59:33,300 - #7 )
+INFO  20:59:33,300 - #15 int
+INFO  20:59:33,301 - #15 b
+INFO  20:59:33,301 - #5 ;
+INFO  20:59:33,301 - #15 int
+INFO  20:59:33,301 - #15 d
+INFO  20:59:33,301 - #5 ;
+INFO  20:59:33,301 - #15 int
+INFO  20:59:33,301 - #15 v
+INFO  20:59:33,301 - #5 ;
+INFO  20:59:33,301 - #3 {
+INFO  20:59:33,301 - #15 x
+INFO  20:59:33,302 - #8 =
+INFO  20:59:33,302 - #15 b
+INFO  20:59:33,302 - #5 ;
+INFO  20:59:33,303 - #15 x
+INFO  20:59:33,304 - #8 =
+INFO  20:59:33,304 - #15 niz
+INFO  20:59:33,304 - #33 [
+INFO  20:59:33,304 - #14 1
+INFO  20:59:33,304 - #34 ]
+INFO  20:59:33,305 - #5 ;
+INFO  20:59:33,305 - #15 niz
+INFO  20:59:33,305 - #33 [
+INFO  20:59:33,305 - #14 0
+INFO  20:59:33,305 - #34 ]
+INFO  20:59:33,305 - #8 =
+INFO  20:59:33,306 - #15 c
+INFO  20:59:33,306 - #5 ;
+INFO  20:59:33,306 - #4 }
+INFO  20:59:33,306 - #13 void
+INFO  20:59:33,306 - #15 main
+INFO  20:59:33,306 - #6 (
+INFO  20:59:33,309 - #7 )
+INFO  20:59:33,310 - #15 int
+INFO  20:59:33,310 - #15 d
+INFO  20:59:33,310 - #5 ;
+INFO  20:59:33,310 - #3 {
+INFO  20:59:33,310 - #15 y
+INFO  20:59:33,310 - #8 =
+INFO  20:59:33,310 - #14 2
+INFO  20:59:33,310 - #5 ;
+INFO  20:59:33,310 - #15 x
+INFO  20:59:33,311 - #8 =
+INFO  20:59:33,311 - #15 x
+INFO  20:59:33,311 - #31 *
+INFO  20:59:33,311 - #14 2
+INFO  20:59:33,312 - #5 ;
+INFO  20:59:33,312 - #15 y
+INFO  20:59:33,312 - #8 =
+INFO  20:59:33,312 - #15 x
+INFO  20:59:33,312 - #10 +
+INFO  20:59:33,312 - #14 3
+INFO  20:59:33,313 - #5 ;
+INFO  20:59:33,314 - #15 y
+INFO  20:59:33,314 - #8 =
+INFO  20:59:33,314 - #15 k
+INFO  20:59:33,314 - #6 (
+INFO  20:59:33,314 - #7 )
+INFO  20:59:33,315 - #5 ;
+INFO  20:59:33,315 - #15 y
+INFO  20:59:33,315 - #8 =
+INFO  20:59:33,315 - #15 chr
+INFO  20:59:33,315 - #6 (
+INFO  20:59:33,315 - #15 y
+INFO  20:59:33,315 - #7 )
+INFO  20:59:33,316 - #5 ;
+INFO  20:59:33,316 - #15 x
+INFO  20:59:33,316 - #8 =
+INFO  20:59:33,316 - #15 ord
+INFO  20:59:33,316 - #6 (
+INFO  20:59:33,316 - #15 x
+INFO  20:59:33,316 - #7 )
+INFO  20:59:33,316 - #5 ;
+INFO  20:59:33,316 - #15 x
+INFO  20:59:33,316 - #8 =
+INFO  20:59:33,316 - #15 len
+INFO  20:59:33,317 - #6 (
+INFO  20:59:33,317 - #15 x
+INFO  20:59:33,317 - #7 )
+INFO  20:59:33,317 - #5 ;
+INFO  20:59:33,317 - #12 print
+INFO  20:59:33,317 - #6 (
+INFO  20:59:33,317 - #15 y
+INFO  20:59:33,317 - #7 )
+INFO  20:59:33,317 - #5 ;
+INFO  20:59:33,317 - #4 }
+INFO  20:59:33,317 - #4 }
+INFO  20:59:33,333 - ===================================
+INFO  20:59:33,336 - Deklarisana globalna promenljiva x na liniji 2
+ERROR 20:59:33,337 - Vec postoji globalna promenljiva x na liniji 2
+INFO  20:59:33,337 - Deklarisana globalna promenljiva y na liniji 2
+INFO  20:59:33,337 - Deklarisana globaln promenljiva niz[] na liniji 2
+ERROR 20:59:33,337 - Vec postoji globalna promenljiva x na liniji 3
+ERROR 20:59:33,337 - Vec postoji globalna promenljiva niz na liniji 3
+INFO  20:59:33,337 - Obradjuje se funkcija k na liniji 6
+INFO  20:59:33,338 - Deklarisana lokalna/parametar promenljiva a na liniji 6
+INFO  20:59:33,338 - Deklarisana lokalna/parametar promenljiva b na liniji 6
+INFO  20:59:33,338 - Deklarisana lokalna/parametar promenljiva c na liniji 6
+ERROR 20:59:33,338 - Vec postoji lokalna promenljiva b na liniji 32
+INFO  20:59:33,338 - Deklarisana lokalna promenljiva d na liniji 32
+INFO  20:59:33,338 - Deklarisana lokalna promenljiva v na liniji 32
+INFO  20:59:33,338 - Koristi se promenljiva: x na liniji 8 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,338 - Koristi se promenljiva: b na liniji 8 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1f17ae12
+INFO  20:59:33,338 - Koristi se promenljiva: x na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,338 - Pronadjen pristup nizu niz na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  20:59:33,338 - Pronadjen pristup nizu niz na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  20:59:33,339 - Koristi se promenljiva: c na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+ERROR 20:59:33,339 - Semanticka greska na liniji 6: funkcija k nema return iskaz!
+INFO  20:59:33,339 - KRAJ Funkcije: k
+INFO  20:59:33,339 - Obradjuje se funkcija main na liniji 14
+INFO  20:59:33,339 - Deklarisana lokalna promenljiva d na liniji 11
+INFO  20:59:33,339 - Koristi se promenljiva: y na liniji 15 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+ERROR 20:59:33,339 - Greska na liniji 15 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  20:59:33,339 - Koristi se promenljiva: x na liniji 16 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,339 - Koristi se promenljiva: x na liniji 16 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,339 - Koristi se promenljiva: y na liniji 17 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  20:59:33,339 - Koristi se promenljiva: x na liniji 17 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+ERROR 20:59:33,339 - Greska na liniji 17 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  20:59:33,339 - Koristi se promenljiva: y na liniji 18 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  20:59:33,339 - Pronadjen poziv funkcije k na liniji 18 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c4437c4
+INFO  20:59:33,339 - Koristi se promenljiva: y na liniji 20 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  20:59:33,339 - Koristi se promenljiva: y na liniji 20 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  20:59:33,340 - Pronadjen poziv funkcije chr na liniji 20 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@433c675d
+INFO  20:59:33,340 - Koristi se promenljiva: x na liniji 21 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,340 - Koristi se promenljiva: x na liniji 21 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,340 - Pronadjen poziv funkcije ord na liniji 21 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@3f91beef
+INFO  20:59:33,340 - Koristi se promenljiva: x na liniji 22 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,340 - Koristi se promenljiva: x na liniji 22 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@300ffa5d
+INFO  20:59:33,340 - Pronadjen poziv funkcije len na liniji 22 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@1a6c5a9e
+INFO  20:59:33,340 - Koristi se promenljiva: y na liniji 23 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  20:59:33,340 - KRAJ Funkcije: main
+INFO  20:59:33,340 -  Print count calls = 1
+INFO  20:59:33,340 -  Deklarisanih globalnih promenljivih ima = 3
+INFO  20:59:33,340 - ===================================
+ERROR 20:59:33,341 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,1526 @@
+Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  ProgList1(
+    VarDecl1(
+      Type(
+       int
+      ) [Type]
+     x
+      VarDeclarations1(
+       m
+        NoVarDecl(
+        ) [NoVarDecl]
+      ) [VarDeclarations1]
+    ) [VarDecl1]
+    ProgList1(
+      VarDecl1(
+        Type(
+         char
+        ) [Type]
+       ch
+        NoVarDecl(
+        ) [NoVarDecl]
+      ) [VarDecl1]
+      ProgList1(
+        VarDecl2(
+          Type(
+           int
+          ) [Type]
+         niz
+          NoVarDecl(
+          ) [NoVarDecl]
+        ) [VarDecl2]
+        ProgList1(
+          VarDecl1(
+            Type(
+             bool
+            ) [Type]
+           flag
+            NoVarDecl(
+            ) [NoVarDecl]
+          ) [VarDecl1]
+          NoProgram3(
+          ) [NoProgram3]
+        ) [ProgList1]
+      ) [ProgList1]
+    ) [ProgList1]
+  ) [ProgList1]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl1(
+        MethodTypeName1(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeName1]
+        ObaImajuFormIoptArg(
+          FormalParamDecls(
+            SingleFormalParamDecl(
+              Forma1(
+                Type(
+                 int
+                ) [Type]
+               b
+              ) [Forma1]
+            ) [SingleFormalParamDecl]
+            Forma1(
+              Type(
+               int
+              ) [Type]
+             c
+            ) [Forma1]
+          ) [FormalParamDecls]
+          MultiOptArgs(
+            SingleOptArg(
+              OptArg1(
+                Type(
+                 int
+                ) [Type]
+               d
+               46
+              ) [OptArg1]
+            ) [SingleOptArg]
+            OptArg2(
+              Type(
+               char
+              ) [Type]
+             s
+             c
+            ) [OptArg2]
+          ) [MultiOptArgs]
+        ) [ObaImajuFormIoptArg]
+        VarDeclMet1(
+          NoVarDeclMet3(
+          ) [NoVarDeclMet3]
+          Type(
+           int
+          ) [Type]
+         a
+        ) [VarDeclMet1]
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      NoStmt(
+                      ) [NoStmt]
+                      StmPrvi(
+                        StatementPrviDerived1(
+                          SingDesStm(
+                            Assignment(
+                              DesignatorObican(
+                               flag
+                              ) [DesignatorObican]
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FnumConst(
+                                     2
+                                    ) [FnumConst]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [Assignment]
+                          ) [SingDesStm]
+                        ) [StatementPrviDerived1]
+                      ) [StmPrvi]
+                    ) [Statements]
+                    StmPrvi(
+                      StatementPrviDerived1(
+                        SingDesStm(
+                          Assignment(
+                            DesignatorObican(
+                             a
+                            ) [DesignatorObican]
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FboolConst(
+                                   true
+                                  ) [FboolConst]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [Assignment]
+                        ) [SingDesStm]
+                      ) [StatementPrviDerived1]
+                    ) [StmPrvi]
+                  ) [Statements]
+                  StmPrvi(
+                    StatementPrviDerived1(
+                      PrintStmt(
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              Var(
+                                DesignatorObican(
+                                 b
+                                ) [DesignatorObican]
+                              ) [Var]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                      ) [PrintStmt]
+                    ) [StatementPrviDerived1]
+                  ) [StmPrvi]
+                ) [Statements]
+                StmPrvi(
+                  StatementPrviDerived1(
+                    PrintStmt(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            Var(
+                              DesignatorObican(
+                               c
+                              ) [DesignatorObican]
+                            ) [Var]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [PrintStmt]
+                  ) [StatementPrviDerived1]
+                ) [StmPrvi]
+              ) [Statements]
+              StmPrvi(
+                StatementPrviDerived1(
+                  PrintStmt(
+                    TermExpr(
+                      Term(
+                        SimpleFactor(
+                          Var(
+                            DesignatorObican(
+                             d
+                            ) [DesignatorObican]
+                          ) [Var]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [PrintStmt]
+                ) [StatementPrviDerived1]
+              ) [StmPrvi]
+            ) [Statements]
+            StmPrvi(
+              StatementPrviDerived1(
+                PrintStmt(
+                  TermExpr(
+                    Term(
+                      SimpleFactor(
+                        Var(
+                          DesignatorObican(
+                           s
+                          ) [DesignatorObican]
+                        ) [Var]
+                      ) [SimpleFactor]
+                    ) [Term]
+                  ) [TermExpr]
+                ) [PrintStmt]
+              ) [StatementPrviDerived1]
+            ) [StmPrvi]
+          ) [Statements]
+          StmPrvi(
+            ReturnExpr(
+              TermExpr(
+                Term(
+                  SimpleFactor(
+                    Var(
+                      DesignatorObican(
+                       a
+                      ) [DesignatorObican]
+                    ) [Var]
+                  ) [SimpleFactor]
+                ) [Term]
+              ) [TermExpr]
+            ) [ReturnExpr]
+          ) [StmPrvi]
+        ) [Statements]
+      ) [MethodDecl1]
+    ) [MethodDeclarations]
+    MethodDecl1(
+      MethodTypeName2(
+       main
+      ) [MethodTypeName2]
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclMet3(
+      ) [NoVarDeclMet3]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    Statements(
+                                                      NoStmt(
+                                                      ) [NoStmt]
+                                                      StmPrvi(
+                                                        StatementPrviDerived1(
+                                                          ReadSingStm(
+                                                            DesignatorObican(
+                                                             flag
+                                                            ) [DesignatorObican]
+                                                          ) [ReadSingStm]
+                                                        ) [StatementPrviDerived1]
+                                                      ) [StmPrvi]
+                                                    ) [Statements]
+                                                    StmPrvi(
+                                                      StatementPrviDerived1(
+                                                        PrintStmt(
+                                                          TermExpr(
+                                                            Term(
+                                                              SimpleFactor(
+                                                                Var(
+                                                                  DesignatorObican(
+                                                                   x
+                                                                  ) [DesignatorObican]
+                                                                ) [Var]
+                                                              ) [SimpleFactor]
+                                                            ) [Term]
+                                                          ) [TermExpr]
+                                                        ) [PrintStmt]
+                                                      ) [StatementPrviDerived1]
+                                                    ) [StmPrvi]
+                                                  ) [Statements]
+                                                  StmPrvi(
+                                                    StatementPrviDerived1(
+                                                      PrintStmt(
+                                                        TermExpr(
+                                                          Term(
+                                                            SimpleFactor(
+                                                              Var(
+                                                                DesignatorObican(
+                                                                 flag
+                                                                ) [DesignatorObican]
+                                                              ) [Var]
+                                                            ) [SimpleFactor]
+                                                          ) [Term]
+                                                        ) [TermExpr]
+                                                      ) [PrintStmt]
+                                                    ) [StatementPrviDerived1]
+                                                  ) [StmPrvi]
+                                                ) [Statements]
+                                                StmPrvi(
+                                                  StatementPrviDerived1(
+                                                    PrintStmt(
+                                                      TermExpr(
+                                                        Term(
+                                                          SimpleFactor(
+                                                            FuncCall(
+                                                              DesignatorObican(
+                                                               chr
+                                                              ) [DesignatorObican]
+                                                              Actuals(
+                                                                ActualParam(
+                                                                  TermExpr(
+                                                                    Term(
+                                                                      SimpleFactor(
+                                                                        FnumConst(
+                                                                         5
+                                                                        ) [FnumConst]
+                                                                      ) [SimpleFactor]
+                                                                    ) [Term]
+                                                                  ) [TermExpr]
+                                                                ) [ActualParam]
+                                                              ) [Actuals]
+                                                            ) [FuncCall]
+                                                          ) [SimpleFactor]
+                                                        ) [Term]
+                                                      ) [TermExpr]
+                                                    ) [PrintStmt]
+                                                  ) [StatementPrviDerived1]
+                                                ) [StmPrvi]
+                                              ) [Statements]
+                                              StmPrvi(
+                                                StatementPrviDerived1(
+                                                  PrintStmt(
+                                                    TermExpr(
+                                                      Term(
+                                                        SimpleFactor(
+                                                          FuncCall(
+                                                            DesignatorObican(
+                                                             ord
+                                                            ) [DesignatorObican]
+                                                            Actuals(
+                                                              ActualParam(
+                                                                TermExpr(
+                                                                  Term(
+                                                                    SimpleFactor(
+                                                                      FcharConst(
+                                                                       a
+                                                                      ) [FcharConst]
+                                                                    ) [SimpleFactor]
+                                                                  ) [Term]
+                                                                ) [TermExpr]
+                                                              ) [ActualParam]
+                                                            ) [Actuals]
+                                                          ) [FuncCall]
+                                                        ) [SimpleFactor]
+                                                      ) [Term]
+                                                    ) [TermExpr]
+                                                  ) [PrintStmt]
+                                                ) [StatementPrviDerived1]
+                                              ) [StmPrvi]
+                                            ) [Statements]
+                                            StmPrvi(
+                                              StatementPrviDerived1(
+                                                PrintStmt(
+                                                  TermExpr(
+                                                    Term(
+                                                      SimpleFactor(
+                                                        FnumConst(
+                                                         26
+                                                        ) [FnumConst]
+                                                      ) [SimpleFactor]
+                                                    ) [Term]
+                                                  ) [TermExpr]
+                                                ) [PrintStmt]
+                                              ) [StatementPrviDerived1]
+                                            ) [StmPrvi]
+                                          ) [Statements]
+                                          StmPrvi(
+                                            StatementPrviDerived1(
+                                              PrintStmt(
+                                                TermExpr(
+                                                  Term(
+                                                    SimpleFactor(
+                                                      FuncCall(
+                                                        DesignatorObican(
+                                                         k
+                                                        ) [DesignatorObican]
+                                                        Actuals(
+                                                          ActualParams(
+                                                            ActualParam(
+                                                              TermExpr(
+                                                                Term(
+                                                                  SimpleFactor(
+                                                                    FnumConst(
+                                                                     1
+                                                                    ) [FnumConst]
+                                                                  ) [SimpleFactor]
+                                                                ) [Term]
+                                                              ) [TermExpr]
+                                                            ) [ActualParam]
+                                                            TermExpr(
+                                                              Term(
+                                                                SimpleFactor(
+                                                                  FnumConst(
+                                                                   2
+                                                                  ) [FnumConst]
+                                                                ) [SimpleFactor]
+                                                              ) [Term]
+                                                            ) [TermExpr]
+                                                          ) [ActualParams]
+                                                        ) [Actuals]
+                                                      ) [FuncCall]
+                                                    ) [SimpleFactor]
+                                                  ) [Term]
+                                                ) [TermExpr]
+                                              ) [PrintStmt]
+                                            ) [StatementPrviDerived1]
+                                          ) [StmPrvi]
+                                        ) [Statements]
+                                        StmPrvi(
+                                          StatementPrviDerived1(
+                                            SingDesStm(
+                                              Assignment(
+                                                DesignatorObican(
+                                                 x
+                                                ) [DesignatorObican]
+                                                TermExpr(
+                                                  Term(
+                                                    SimpleFactor(
+                                                      FcharConst(
+                                                       c
+                                                      ) [FcharConst]
+                                                    ) [SimpleFactor]
+                                                  ) [Term]
+                                                ) [TermExpr]
+                                              ) [Assignment]
+                                            ) [SingDesStm]
+                                          ) [StatementPrviDerived1]
+                                        ) [StmPrvi]
+                                      ) [Statements]
+                                      StmPrvi(
+                                        StatementPrviDerived1(
+                                          SingDesStm(
+                                            Assignment(
+                                              DesignatorObican(
+                                               niz
+                                              ) [DesignatorObican]
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FnewExpr(
+                                                      Type(
+                                                       char
+                                                      ) [Type]
+                                                      FactorOpcija1(
+                                                        TermExpr(
+                                                          Term(
+                                                            SimpleFactor(
+                                                              FnumConst(
+                                                               5
+                                                              ) [FnumConst]
+                                                            ) [SimpleFactor]
+                                                          ) [Term]
+                                                        ) [TermExpr]
+                                                      ) [FactorOpcija1]
+                                                    ) [FnewExpr]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [Assignment]
+                                          ) [SingDesStm]
+                                        ) [StatementPrviDerived1]
+                                      ) [StmPrvi]
+                                    ) [Statements]
+                                    StmPrvi(
+                                      StatementPrviDerived1(
+                                        SingDesStm(
+                                          Assignment(
+                                            DesignatorArr(
+                                             niz
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FnumConst(
+                                                     0
+                                                    ) [FnumConst]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [DesignatorArr]
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FnumConst(
+                                                   1
+                                                  ) [FnumConst]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [Assignment]
+                                        ) [SingDesStm]
+                                      ) [StatementPrviDerived1]
+                                    ) [StmPrvi]
+                                  ) [Statements]
+                                  StmPrvi(
+                                    StatementPrviDerived1(
+                                      PrintStmt(
+                                        TermExpr(
+                                          Term(
+                                            SimpleFactor(
+                                              Var(
+                                                DesignatorArr(
+                                                 niz
+                                                  TermExpr(
+                                                    Term(
+                                                      SimpleFactor(
+                                                        FnumConst(
+                                                         0
+                                                        ) [FnumConst]
+                                                      ) [SimpleFactor]
+                                                    ) [Term]
+                                                  ) [TermExpr]
+                                                ) [DesignatorArr]
+                                              ) [Var]
+                                            ) [SimpleFactor]
+                                          ) [Term]
+                                        ) [TermExpr]
+                                      ) [PrintStmt]
+                                    ) [StatementPrviDerived1]
+                                  ) [StmPrvi]
+                                ) [Statements]
+                                StmPrvi(
+                                  StatementPrviDerived1(
+                                    PrintStmt(
+                                      TermExpr(
+                                        Term(
+                                          SimpleFactor(
+                                            FuncCall(
+                                              DesignatorObican(
+                                               len
+                                              ) [DesignatorObican]
+                                              Actuals(
+                                                ActualParam(
+                                                  TermExpr(
+                                                    Term(
+                                                      SimpleFactor(
+                                                        Var(
+                                                          DesignatorObican(
+                                                           niz
+                                                          ) [DesignatorObican]
+                                                        ) [Var]
+                                                      ) [SimpleFactor]
+                                                    ) [Term]
+                                                  ) [TermExpr]
+                                                ) [ActualParam]
+                                              ) [Actuals]
+                                            ) [FuncCall]
+                                          ) [SimpleFactor]
+                                        ) [Term]
+                                      ) [TermExpr]
+                                    ) [PrintStmt]
+                                  ) [StatementPrviDerived1]
+                                ) [StmPrvi]
+                              ) [Statements]
+                              StmPrvi(
+                                StatementPrviDerived1(
+                                  SingDesStm(
+                                    Assignment(
+                                      DesignatorArr(
+                                       niz
+                                        TermExpr(
+                                          Term(
+                                            SimpleFactor(
+                                              Var(
+                                                DesignatorObican(
+                                                 x
+                                                ) [DesignatorObican]
+                                              ) [Var]
+                                            ) [SimpleFactor]
+                                          ) [Term]
+                                        ) [TermExpr]
+                                      ) [DesignatorArr]
+                                      TermExpr(
+                                        Term(
+                                          SimpleFactor(
+                                            FnumConst(
+                                             6
+                                            ) [FnumConst]
+                                          ) [SimpleFactor]
+                                        ) [Term]
+                                      ) [TermExpr]
+                                    ) [Assignment]
+                                  ) [SingDesStm]
+                                ) [StatementPrviDerived1]
+                              ) [StmPrvi]
+                            ) [Statements]
+                            StmPrvi(
+                              StatementPrviDerived1(
+                                SingDesStm(
+                                  DesStatmDec(
+                                    DesignatorArr(
+                                     niz
+                                      TermExpr(
+                                        Term(
+                                          SimpleFactor(
+                                            Var(
+                                              DesignatorObican(
+                                               x
+                                              ) [DesignatorObican]
+                                            ) [Var]
+                                          ) [SimpleFactor]
+                                        ) [Term]
+                                      ) [TermExpr]
+                                    ) [DesignatorArr]
+                                  ) [DesStatmDec]
+                                ) [SingDesStm]
+                              ) [StatementPrviDerived1]
+                            ) [StmPrvi]
+                          ) [Statements]
+                          StmPrvi(
+                            StatementPrviDerived1(
+                              SingDesStm(
+                                Assignment(
+                                  DesignatorObican(
+                                   x
+                                  ) [DesignatorObican]
+                                  TermExpr(
+                                    Term(
+                                      SimpleFactor(
+                                        Var(
+                                          DesignatorArr(
+                                           niz
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  Var(
+                                                    DesignatorObican(
+                                                     x
+                                                    ) [DesignatorObican]
+                                                  ) [Var]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [DesignatorArr]
+                                        ) [Var]
+                                      ) [SimpleFactor]
+                                    ) [Term]
+                                  ) [TermExpr]
+                                ) [Assignment]
+                              ) [SingDesStm]
+                            ) [StatementPrviDerived1]
+                          ) [StmPrvi]
+                        ) [Statements]
+                        StmPrvi(
+                          StatementPrviDerived1(
+                            PrintStmt(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    Var(
+                                      DesignatorObican(
+                                       x
+                                      ) [DesignatorObican]
+                                    ) [Var]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [PrintStmt]
+                          ) [StatementPrviDerived1]
+                        ) [StmPrvi]
+                      ) [Statements]
+                      StmPrvi(
+                        StatementPrviDerived1(
+                          SingDesStm(
+                            Assignment(
+                              DesignatorObican(
+                               x
+                              ) [DesignatorObican]
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FuncCall(
+                                      DesignatorObican(
+                                       k
+                                      ) [DesignatorObican]
+                                      Actuals(
+                                        ActualParams(
+                                          ActualParams(
+                                            ActualParams(
+                                              ActualParams(
+                                                ActualParams(
+                                                  ActualParam(
+                                                    TermExpr(
+                                                      Term(
+                                                        SimpleFactor(
+                                                          FnumConst(
+                                                           1
+                                                          ) [FnumConst]
+                                                        ) [SimpleFactor]
+                                                      ) [Term]
+                                                    ) [TermExpr]
+                                                  ) [ActualParam]
+                                                  TermExpr(
+                                                    Term(
+                                                      SimpleFactor(
+                                                        FuncCall(
+                                                          DesignatorObican(
+                                                           k
+                                                          ) [DesignatorObican]
+                                                          Actuals(
+                                                            ActualParam(
+                                                              TermExpr(
+                                                                Term(
+                                                                  SimpleFactor(
+                                                                    FnumConst(
+                                                                     2
+                                                                    ) [FnumConst]
+                                                                  ) [SimpleFactor]
+                                                                ) [Term]
+                                                              ) [TermExpr]
+                                                            ) [ActualParam]
+                                                          ) [Actuals]
+                                                        ) [FuncCall]
+                                                      ) [SimpleFactor]
+                                                    ) [Term]
+                                                  ) [TermExpr]
+                                                ) [ActualParams]
+                                                TermExpr(
+                                                  Term(
+                                                    SimpleFactor(
+                                                      Var(
+                                                        DesignatorArr(
+                                                         niz
+                                                          TermExpr(
+                                                            Term(
+                                                              SimpleFactor(
+                                                                FnumConst(
+                                                                 1
+                                                                ) [FnumConst]
+                                                              ) [SimpleFactor]
+                                                            ) [Term]
+                                                          ) [TermExpr]
+                                                        ) [DesignatorArr]
+                                                      ) [Var]
+                                                    ) [SimpleFactor]
+                                                  ) [Term]
+                                                ) [TermExpr]
+                                              ) [ActualParams]
+                                              TermExpr(
+                                                Term(
+                                                  SimpleFactor(
+                                                    FnumConst(
+                                                     1
+                                                    ) [FnumConst]
+                                                  ) [SimpleFactor]
+                                                ) [Term]
+                                              ) [TermExpr]
+                                            ) [ActualParams]
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FnumConst(
+                                                   2
+                                                  ) [FnumConst]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ActualParams]
+                                          TermExpr(
+                                            Term(
+                                              SimpleFactor(
+                                                FnumConst(
+                                                 3
+                                                ) [FnumConst]
+                                              ) [SimpleFactor]
+                                            ) [Term]
+                                          ) [TermExpr]
+                                        ) [ActualParams]
+                                      ) [Actuals]
+                                    ) [FuncCall]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [Assignment]
+                          ) [SingDesStm]
+                        ) [StatementPrviDerived1]
+                      ) [StmPrvi]
+                    ) [Statements]
+                    StmPrvi(
+                      StatementPrviDerived1(
+                        PrintStmt(
+                          TermExpr(
+                            Term(
+                              SimpleFactor(
+                                FcharConst(
+                                 X
+                                ) [FcharConst]
+                              ) [SimpleFactor]
+                            ) [Term]
+                          ) [TermExpr]
+                        ) [PrintStmt]
+                      ) [StatementPrviDerived1]
+                    ) [StmPrvi]
+                  ) [Statements]
+                  StmPrvi(
+                    StatementPrviDerived1(
+                      SingDesStm(
+                        Assignment(
+                          DesignatorObican(
+                           x
+                          ) [DesignatorObican]
+                          TermExpr(
+                            Term(
+                              SimpleFactor(
+                                FnumConst(
+                                 0
+                                ) [FnumConst]
+                              ) [SimpleFactor]
+                            ) [Term]
+                          ) [TermExpr]
+                        ) [Assignment]
+                      ) [SingDesStm]
+                    ) [StatementPrviDerived1]
+                  ) [StmPrvi]
+                ) [Statements]
+                StmPrvi(
+                  DoWhileStm(
+                    DoWhile(
+                      DoStart1(
+                      ) [DoStart1]
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              NoStmt(
+                              ) [NoStmt]
+                              StmPrvi(
+                                DoWhileStm(
+                                  DoWhile(
+                                    DoStart1(
+                                    ) [DoStart1]
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          NoStmt(
+                                          ) [NoStmt]
+                                          StmPrvi(
+                                            Break(
+                                            ) [Break]
+                                          ) [StmPrvi]
+                                        ) [Statements]
+                                        StmPrvi(
+                                          StatementPrviDerived1(
+                                            SingDesStm(
+                                              DesStatmInc(
+                                                DesignatorObican(
+                                                 x
+                                                ) [DesignatorObican]
+                                              ) [DesStatmInc]
+                                            ) [SingDesStm]
+                                          ) [StatementPrviDerived1]
+                                        ) [StmPrvi]
+                                      ) [Statements]
+                                      StmPrvi(
+                                        StatementPrviDerived1(
+                                          PrintStmt(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  Var(
+                                                    DesignatorObican(
+                                                     x
+                                                    ) [DesignatorObican]
+                                                  ) [Var]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [PrintStmt]
+                                        ) [StatementPrviDerived1]
+                                      ) [StmPrvi]
+                                    ) [Statements]
+                                    Condition(
+                                      CondTerm1(
+                                        CondFact1(
+                                          TermExpr(
+                                            Term(
+                                              SimpleFactor(
+                                                Var(
+                                                  DesignatorObican(
+                                                   flag
+                                                  ) [DesignatorObican]
+                                                ) [Var]
+                                              ) [SimpleFactor]
+                                            ) [Term]
+                                          ) [TermExpr]
+                                        ) [CondFact1]
+                                        CondLogI(
+                                          CondTermListDerived1(
+                                          ) [CondTermListDerived1]
+                                          CondFact2(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  Var(
+                                                    DesignatorObican(
+                                                     x
+                                                    ) [DesignatorObican]
+                                                  ) [Var]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                            RelopVece(
+                                            ) [RelopVece]
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FnumConst(
+                                                   5
+                                                  ) [FnumConst]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [CondFact2]
+                                        ) [CondLogI]
+                                      ) [CondTerm1]
+                                      ConditionListDerived1(
+                                      ) [ConditionListDerived1]
+                                    ) [Condition]
+                                  ) [DoWhile]
+                                ) [DoWhileStm]
+                              ) [StmPrvi]
+                            ) [Statements]
+                            StmDrugi(
+                              MatchedIf(
+                                StmIf1(
+                                  IfStart1(
+                                  ) [IfStart1]
+                                  Condition(
+                                    CondTerm1(
+                                      CondFact2(
+                                        TermExpr(
+                                          Term(
+                                            SimpleFactor(
+                                              Var(
+                                                DesignatorObican(
+                                                 x
+                                                ) [DesignatorObican]
+                                              ) [Var]
+                                            ) [SimpleFactor]
+                                          ) [Term]
+                                        ) [TermExpr]
+                                        RelopIsto(
+                                        ) [RelopIsto]
+                                        TermExpr(
+                                          Term(
+                                            SimpleFactor(
+                                              FnumConst(
+                                               0
+                                              ) [FnumConst]
+                                            ) [SimpleFactor]
+                                          ) [Term]
+                                        ) [TermExpr]
+                                      ) [CondFact2]
+                                      CondLogI(
+                                        CondTermListDerived1(
+                                        ) [CondTermListDerived1]
+                                        ErrorCondFact3(
+                                        ) [ErrorCondFact3]
+                                      ) [CondLogI]
+                                    ) [CondTerm1]
+                                    ConditionListDerived1(
+                                    ) [ConditionListDerived1]
+                                  ) [Condition]
+                                  StmPrvi(
+                                    Break(
+                                    ) [Break]
+                                  ) [StmPrvi]
+                                ) [StmIf1]
+                              ) [MatchedIf]
+                            ) [StmDrugi]
+                          ) [Statements]
+                          StmPrvi(
+                            StatementPrviDerived1(
+                              SingDesStm(
+                                DesStatmInc(
+                                  DesignatorObican(
+                                   x
+                                  ) [DesignatorObican]
+                                ) [DesStatmInc]
+                              ) [SingDesStm]
+                            ) [StatementPrviDerived1]
+                          ) [StmPrvi]
+                        ) [Statements]
+                        StmPrvi(
+                          StatementPrviDerived1(
+                            PrintStmt(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    Var(
+                                      DesignatorObican(
+                                       x
+                                      ) [DesignatorObican]
+                                    ) [Var]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [PrintStmt]
+                          ) [StatementPrviDerived1]
+                        ) [StmPrvi]
+                      ) [Statements]
+                      Condition(
+                        CondTerm1(
+                          CondFact2(
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  Var(
+                                    DesignatorObican(
+                                     x
+                                    ) [DesignatorObican]
+                                  ) [Var]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                            RelopManje(
+                            ) [RelopManje]
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FnumConst(
+                                   8
+                                  ) [FnumConst]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [CondFact2]
+                          CondLogI(
+                            CondTermListDerived1(
+                            ) [CondTermListDerived1]
+                            CondFact2(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    Var(
+                                      DesignatorObican(
+                                       x
+                                      ) [DesignatorObican]
+                                    ) [Var]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                              RelopVeceJed(
+                              ) [RelopVeceJed]
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FnumConst(
+                                     6
+                                    ) [FnumConst]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [CondFact2]
+                          ) [CondLogI]
+                        ) [CondTerm1]
+                        ConditionListDerived1(
+                        ) [ConditionListDerived1]
+                      ) [Condition]
+                    ) [DoWhile]
+                  ) [DoWhileStm]
+                ) [StmPrvi]
+              ) [Statements]
+              StmPrvi(
+                StatementPrviDerived1(
+                  PrintStmt(
+                    TermExpr(
+                      Term(
+                        SimpleFactor(
+                          FcharConst(
+                           K
+                          ) [FcharConst]
+                        ) [SimpleFactor]
+                      ) [Term]
+                    ) [TermExpr]
+                  ) [PrintStmt]
+                ) [StatementPrviDerived1]
+              ) [StmPrvi]
+            ) [Statements]
+            StmDrugi(
+              MatchedIf(
+                StmIf1(
+                  IfStart1(
+                  ) [IfStart1]
+                  Condition(
+                    CondTerm1(
+                      CondFact2(
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              FuncCall(
+                                DesignatorObican(
+                                 k
+                                ) [DesignatorObican]
+                                Actuals(
+                                  ActualParams(
+                                    ActualParam(
+                                      TermExpr(
+                                        Term(
+                                          SimpleFactor(
+                                            FnumConst(
+                                             1
+                                            ) [FnumConst]
+                                          ) [SimpleFactor]
+                                        ) [Term]
+                                      ) [TermExpr]
+                                    ) [ActualParam]
+                                    TermExpr(
+                                      Term(
+                                        SimpleFactor(
+                                          FnumConst(
+                                           2
+                                          ) [FnumConst]
+                                        ) [SimpleFactor]
+                                      ) [Term]
+                                    ) [TermExpr]
+                                  ) [ActualParams]
+                                ) [Actuals]
+                              ) [FuncCall]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                        RelopVece(
+                        ) [RelopVece]
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              FnumConst(
+                               1
+                              ) [FnumConst]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                      ) [CondFact2]
+                      CondTermListDerived1(
+                      ) [CondTermListDerived1]
+                    ) [CondTerm1]
+                    CondLogILI(
+                      ConditionListDerived1(
+                      ) [ConditionListDerived1]
+                      CondTerm1(
+                        ErrorCondFact3(
+                        ) [ErrorCondFact3]
+                        CondTermListDerived1(
+                        ) [CondTermListDerived1]
+                      ) [CondTerm1]
+                    ) [CondLogILI]
+                  ) [Condition]
+                  StmDrugi(
+                    MatchedIf(
+                      StmIf2(
+                        IfStart1(
+                        ) [IfStart1]
+                        Condition(
+                          CondTerm1(
+                            CondFact2(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FuncCall(
+                                      DesignatorObican(
+                                       k
+                                      ) [DesignatorObican]
+                                      Actuals(
+                                        ActualParams(
+                                          ActualParam(
+                                            TermExpr(
+                                              Term(
+                                                SimpleFactor(
+                                                  FnumConst(
+                                                   1
+                                                  ) [FnumConst]
+                                                ) [SimpleFactor]
+                                              ) [Term]
+                                            ) [TermExpr]
+                                          ) [ActualParam]
+                                          TermExpr(
+                                            Term(
+                                              SimpleFactor(
+                                                FnumConst(
+                                                 2
+                                                ) [FnumConst]
+                                              ) [SimpleFactor]
+                                            ) [Term]
+                                          ) [TermExpr]
+                                        ) [ActualParams]
+                                      ) [Actuals]
+                                    ) [FuncCall]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                              RelopVece(
+                              ) [RelopVece]
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FnumConst(
+                                     10
+                                    ) [FnumConst]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [CondFact2]
+                            CondTermListDerived1(
+                            ) [CondTermListDerived1]
+                          ) [CondTerm1]
+                          CondLogILI(
+                            ConditionListDerived1(
+                            ) [ConditionListDerived1]
+                            CondTerm1(
+                              CondFact2(
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      Var(
+                                        DesignatorObican(
+                                         x
+                                        ) [DesignatorObican]
+                                      ) [Var]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                                RelopManje(
+                                ) [RelopManje]
+                                TermExpr(
+                                  Term(
+                                    SimpleFactor(
+                                      FnumConst(
+                                       2
+                                      ) [FnumConst]
+                                    ) [SimpleFactor]
+                                  ) [Term]
+                                ) [TermExpr]
+                              ) [CondFact2]
+                              CondTermListDerived1(
+                              ) [CondTermListDerived1]
+                            ) [CondTerm1]
+                          ) [CondLogILI]
+                        ) [Condition]
+                        StmsPrviList(
+                          NoStmsPrviList(
+                          ) [NoStmsPrviList]
+                          StatementPrviDerived1(
+                            PrintStmt(
+                              TermExpr(
+                                Term(
+                                  SimpleFactor(
+                                    FcharConst(
+                                     A
+                                    ) [FcharConst]
+                                  ) [SimpleFactor]
+                                ) [Term]
+                              ) [TermExpr]
+                            ) [PrintStmt]
+                          ) [StatementPrviDerived1]
+                        ) [StmsPrviList]
+                      ) [StmIf2]
+                    ) [MatchedIf]
+                  ) [StmDrugi]
+                ) [StmIf1]
+              ) [MatchedIf]
+            ) [StmDrugi]
+          ) [Statements]
+          StmDrugi(
+            MathcedIfElse(
+              StmIfElse1(
+                IfStart1(
+                ) [IfStart1]
+                Condition(
+                  CondTerm1(
+                    CondFact2(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            Var(
+                              DesignatorObican(
+                               x
+                              ) [DesignatorObican]
+                            ) [Var]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                      RelopManje(
+                      ) [RelopManje]
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            FnumConst(
+                             0
+                            ) [FnumConst]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [CondFact2]
+                    CondTermListDerived1(
+                    ) [CondTermListDerived1]
+                  ) [CondTerm1]
+                  CondLogILI(
+                    ConditionListDerived1(
+                    ) [ConditionListDerived1]
+                    CondTerm1(
+                      CondFact2(
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              Var(
+                                DesignatorObican(
+                                 x
+                                ) [DesignatorObican]
+                              ) [Var]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                        RelopManje(
+                        ) [RelopManje]
+                        TermExpr(
+                          Term(
+                            SimpleFactor(
+                              FnumConst(
+                               1
+                              ) [FnumConst]
+                            ) [SimpleFactor]
+                          ) [Term]
+                        ) [TermExpr]
+                      ) [CondFact2]
+                      CondTermListDerived1(
+                      ) [CondTermListDerived1]
+                    ) [CondTerm1]
+                  ) [CondLogILI]
+                ) [Condition]
+                StmPrvi(
+                  StatementPrviDerived1(
+                    PrintStmt(
+                      TermExpr(
+                        Term(
+                          SimpleFactor(
+                            Var(
+                              DesignatorObican(
+                               x
+                              ) [DesignatorObican]
+                            ) [Var]
+                          ) [SimpleFactor]
+                        ) [Term]
+                      ) [TermExpr]
+                    ) [PrintStmt]
+                  ) [StatementPrviDerived1]
+                ) [StmPrvi]
+                ElseStart1(
+                ) [ElseStart1]
+                StmDrugi(
+                  MathcedIfElse(
+                    StmIfElse1(
+                      IfStart1(
+                      ) [IfStart1]
+                      Condition(
+                        CondTerm1(
+                          CondFact2(
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  Var(
+                                    DesignatorObican(
+                                     x
+                                    ) [DesignatorObican]
+                                  ) [Var]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                            RelopIsto(
+                            ) [RelopIsto]
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FnumConst(
+                                   3
+                                  ) [FnumConst]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [CondFact2]
+                          CondTermListDerived1(
+                          ) [CondTermListDerived1]
+                        ) [CondTerm1]
+                        ConditionListDerived1(
+                        ) [ConditionListDerived1]
+                      ) [Condition]
+                      StmPrvi(
+                        StatementPrviDerived1(
+                          PrintStmt(
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FnumConst(
+                                   15
+                                  ) [FnumConst]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [PrintStmt]
+                        ) [StatementPrviDerived1]
+                      ) [StmPrvi]
+                      ElseStart1(
+                      ) [ElseStart1]
+                      StmPrvi(
+                        StatementPrviDerived1(
+                          PrintStmt(
+                            TermExpr(
+                              Term(
+                                SimpleFactor(
+                                  FnumConst(
+                                   10
+                                  ) [FnumConst]
+                                ) [SimpleFactor]
+                              ) [Term]
+                            ) [TermExpr]
+                          ) [PrintStmt]
+                        ) [StatementPrviDerived1]
+                      ) [StmPrvi]
+                    ) [StmIfElse1]
+                  ) [MathcedIfElse]
+                ) [StmDrugi]
+              ) [StmIfElse1]
+            ) [MathcedIfElse]
+          ) [StmDrugi]
+        ) [Statements]
+        StmPrvi(
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [StmPrvi]
+      ) [Statements]
+    ) [MethodDecl1]
+  ) [MethodDeclarations]
+) [Program]
+===================================
+INFO -Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@176d53b2 rs.etf.pp1.symboltable.concepts.Struct@971d0d8
+INFO -Deklarisana globalna promenljiva x na liniji 2
+INFO -Deklarisana globalna promenljiva m na liniji 2
+INFO -Deklarisana globalna promenljiva ch na liniji 3
+INFO -Deklarisana globaln promenljiva niz[] na liniji 4
+INFO -Deklarisana globalna promenljiva flag na liniji 5
+INFO -Obradjuje se funkcija k na liniji 8
+INFO -Deklarisana lokalna/parametar promenljiva b na liniji 8
+INFO -Deklarisana lokalna/parametar promenljiva c na liniji 8
+INFO -Deklarisana lokalna/parametar promenljiva d na liniji 8
+INFO -Deklarisana lokalna/parametar promenljiva s na liniji 8
+INFO -Deklarisana lokalna promenljiva a na liniji 45
+INFO -Koristi se promenljiva: flag na liniji 11 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@51931956
+INFO -Koristi se promenljiva: a na liniji 12 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2b4a2ec7
+INFO -Koristi se promenljiva: b na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@564718df
+INFO -Poziv funkcije print na liniji 13
+INFO -Koristi se promenljiva: c na liniji 14 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@51b7e5df
+INFO -Poziv funkcije print na liniji 14
+INFO -Koristi se promenljiva: d na liniji 15 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@18a70f16
+INFO -Poziv funkcije print na liniji 15
+INFO -Koristi se promenljiva: s na liniji 16 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@62e136d3
+INFO -Poziv funkcije print na liniji 16
+INFO -Koristi se promenljiva: a na liniji 17 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2b4a2ec7
+INFO -KRAJ Funkcije: k
+INFO -Obradjuje se funkcija main na liniji 20
+INFO -Koristi se promenljiva: flag na liniji 21 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@51931956
+INFO -Poziv funkcije read na liniji 21
+INFO -Koristi se promenljiva: x na liniji 22 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Poziv funkcije print na liniji 22
+INFO -Koristi se promenljiva: flag na liniji 23 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@51931956
+INFO -Poziv funkcije print na liniji 23
+INFO -Pronadjen poziv funkcije chr na liniji 24 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6279cee3
+INFO -Poziv funkcije print na liniji 24
+INFO -Pronadjen poziv funkcije ord na liniji 25 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4206a205
+INFO -Poziv funkcije print na liniji 25
+INFO -Poziv funkcije print na liniji 26
+INFO -Pronadjen poziv funkcije k na liniji 27 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@29ba4338
+INFO -Poziv funkcije print na liniji 27
+INFO -Koristi se promenljiva: x na liniji 28 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Koristi se promenljiva: niz na liniji 29 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Pronadjen pristup nizu niz na liniji 30 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Pronadjen pristup nizu niz na liniji 31 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Poziv funkcije print na liniji 31
+INFO -Koristi se promenljiva: niz na liniji 32 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Pronadjen poziv funkcije len na liniji 32 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@7bb58ca3
+INFO -Poziv funkcije print na liniji 32
+INFO -Koristi se promenljiva: x na liniji 33 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Pronadjen pristup nizu niz na liniji 33 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Koristi se promenljiva: x na liniji 34 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Pronadjen pristup nizu niz na liniji 34 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Koristi se promenljiva: x na liniji 35 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Koristi se promenljiva: x na liniji 35 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Pronadjen pristup nizu niz na liniji 35 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@57175e74
+INFO -Koristi se promenljiva: x na liniji 36 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@c8e4bb0
+INFO -Poziv funkcije print na liniji 36
+INFO -Koristi 

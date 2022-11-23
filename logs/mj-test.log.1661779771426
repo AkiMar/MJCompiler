@@ -1,0 +1,35 @@
+INFO  15:26:07,771 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  15:26:07,832 - #2 program
+INFO  15:26:07,833 - #15 MJProgram
+INFO  15:26:07,833 - #15 int
+INFO  15:26:07,833 - #15 x
+INFO  15:26:07,834 - #15 m
+INFO  15:26:07,835 - #15 char
+INFO  15:26:07,835 - #15 ch
+INFO  15:26:07,835 - #15 int
+INFO  15:26:07,835 - #15 niz
+INFO  15:26:07,835 - #15 bool
+INFO  15:26:07,836 - #15 flag
+INFO  15:26:07,837 - #13 void
+INFO  15:26:07,837 - #15 main
+INFO  15:26:07,838 - #15 niz
+INFO  15:26:07,839 - #26 new
+INFO  15:26:07,839 - #15 int
+INFO  15:26:07,839 - #14 2
+INFO  15:26:07,841 - #14 2
+INFO  15:26:07,841 - #9 return
+INFO  15:26:07,856 - ===================================
+INFO  15:26:07,862 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  15:26:07,862 - Deklarisana globalna promenljiva x na liniji 2
+INFO  15:26:07,862 - Deklarisana globalna promenljiva m na liniji 2
+INFO  15:26:07,863 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  15:26:07,863 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  15:26:07,863 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  15:26:07,863 - Obradjuje se funkcija main na liniji 8
+INFO  15:26:07,863 - Koristi se promenljiva: niz na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+ERROR 15:26:07,864 - Greska tip u zagradama [] nije int na liniji 9
+INFO  15:26:07,864 - KRAJ Funkcije: main
+INFO  15:26:07,864 -  Print count calls = 0
+INFO  15:26:07,864 -  Deklarisanih globalnih promenljivih ima = 4
+INFO  15:26:07,864 - ===================================
+ERROR 15:26:07,865 - Parsiranje NIJE uspesno zavrseno!

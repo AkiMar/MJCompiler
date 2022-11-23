@@ -1,0 +1,39 @@
+INFO  21:21:08,553 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  21:21:09,294 - #2 program
+INFO  21:21:09,295 - #15 MJProgram
+INFO  21:21:09,295 - #15 int
+INFO  21:21:09,301 - #15 x
+INFO  21:21:09,308 - #11 ,
+INFO  21:21:09,308 - #15 m
+INFO  21:21:09,308 - #5 ;
+INFO  21:21:09,315 - #3 {
+INFO  21:21:09,321 - #15 int
+INFO  21:21:09,327 - #15 k
+INFO  21:21:09,327 - #6 (
+INFO  21:21:09,328 - #7 )
+INFO  21:21:09,333 - #3 {
+INFO  21:21:09,340 - #9 return
+INFO  21:21:09,345 - #14 1
+INFO  21:21:09,346 - #5 ;
+INFO  21:21:09,353 - #4 }
+INFO  21:21:09,353 - #13 void
+INFO  21:21:09,354 - #15 main
+INFO  21:21:09,354 - #6 (
+INFO  21:21:09,354 - #7 )
+INFO  21:21:09,354 - #3 {
+INFO  21:21:09,354 - #9 return
+INFO  21:21:09,354 - #5 ;
+INFO  21:21:09,354 - #4 }
+INFO  21:21:09,360 - #4 }
+INFO  21:21:09,382 - ===================================
+INFO  21:21:09,394 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  21:21:09,394 - Deklarisana globalna promenljiva x na liniji 2
+INFO  21:21:09,394 - Deklarisana globalna promenljiva m na liniji 2
+INFO  21:21:09,395 - Obradjuje se funkcija k na liniji 5
+INFO  21:21:09,395 - KRAJ Funkcije: k
+INFO  21:21:09,395 - Obradjuje se funkcija main na liniji 10
+INFO  21:21:09,395 - KRAJ Funkcije: main
+INFO  21:21:09,395 -  Print count calls = 0
+INFO  21:21:09,395 -  Deklarisanih globalnih promenljivih ima = 1
+INFO  21:21:09,395 - ===================================
+INFO  21:21:09,471 - Parsiranje uspesno zavrseno!

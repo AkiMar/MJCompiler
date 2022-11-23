@@ -1,0 +1,71 @@
+INFO  21:59:34,751 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  21:59:34,808 - #2 program
+INFO  21:59:34,808 - #15 MJProgram
+INFO  21:59:34,809 - #15 int
+INFO  21:59:34,810 - #15 x
+INFO  21:59:34,810 - #11 ,
+INFO  21:59:34,811 - #15 m
+INFO  21:59:34,811 - #5 ;
+INFO  21:59:34,812 - #3 {
+INFO  21:59:34,813 - #15 int
+INFO  21:59:34,813 - #15 k
+INFO  21:59:34,813 - #6 (
+INFO  21:59:34,814 - #7 )
+INFO  21:59:34,814 - #3 {
+INFO  21:59:34,815 - #15 m
+INFO  21:59:34,815 - #8 =
+INFO  21:59:34,816 - #14 2
+INFO  21:59:34,816 - #5 ;
+INFO  21:59:34,817 - #9 return
+INFO  21:59:34,818 - #15 m
+INFO  21:59:34,818 - #5 ;
+INFO  21:59:34,818 - #4 }
+INFO  21:59:34,818 - #13 void
+INFO  21:59:34,819 - #15 main
+INFO  21:59:34,819 - #6 (
+INFO  21:59:34,819 - #7 )
+INFO  21:59:34,819 - #3 {
+INFO  21:59:34,820 - #15 x
+INFO  21:59:34,820 - #8 =
+INFO  21:59:34,820 - #14 2
+INFO  21:59:34,820 - #5 ;
+INFO  21:59:34,820 - #15 x
+INFO  21:59:34,820 - #8 =
+INFO  21:59:34,820 - #15 x
+INFO  21:59:34,820 - #10 +
+INFO  21:59:34,820 - #14 1
+INFO  21:59:34,822 - #5 ;
+INFO  21:59:34,822 - #12 print
+INFO  21:59:34,822 - #6 (
+INFO  21:59:34,822 - #14 1
+INFO  21:59:34,822 - #7 )
+INFO  21:59:34,822 - #5 ;
+INFO  21:59:34,822 - #12 print
+INFO  21:59:34,823 - #6 (
+INFO  21:59:34,823 - #15 x
+INFO  21:59:34,823 - #7 )
+INFO  21:59:34,823 - #5 ;
+INFO  21:59:34,823 - #9 return
+INFO  21:59:34,823 - #5 ;
+INFO  21:59:34,823 - #4 }
+INFO  21:59:34,824 - #4 }
+INFO  21:59:34,840 - ===================================
+INFO  21:59:34,845 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  21:59:34,845 - Deklarisana globalna promenljiva x na liniji 2
+INFO  21:59:34,845 - Deklarisana globalna promenljiva m na liniji 2
+INFO  21:59:34,845 - Obradjuje se funkcija k na liniji 5
+INFO  21:59:34,846 - Koristi se promenljiva: m na liniji 7 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  21:59:34,846 - Koristi se promenljiva: m na liniji 8 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  21:59:34,846 - KRAJ Funkcije: k
+INFO  21:59:34,846 - Obradjuje se funkcija main na liniji 11
+INFO  21:59:34,846 - Koristi se promenljiva: x na liniji 12 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  21:59:34,846 - Koristi se promenljiva: x na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  21:59:34,846 - Koristi se promenljiva: x na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  21:59:34,846 - Poziv funkcije print na liniji 14
+INFO  21:59:34,846 - Koristi se promenljiva: x na liniji 15 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  21:59:34,847 - Poziv funkcije print na liniji 15
+INFO  21:59:34,847 - KRAJ Funkcije: main
+INFO  21:59:34,847 -  Print count calls = 2
+INFO  21:59:34,847 -  Deklarisanih globalnih promenljivih ima = 1
+INFO  21:59:34,847 - ===================================
+INFO  21:59:34,854 - Parsiranje uspesno zavrseno!

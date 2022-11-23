@@ -1,0 +1,44 @@
+INFO  15:45:53,306 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  15:45:53,379 - #2 program
+INFO  15:45:53,379 - #15 MJProgram
+INFO  15:45:53,379 - #15 int
+INFO  15:45:53,380 - #15 x
+INFO  15:45:53,380 - #15 m
+INFO  15:45:53,381 - #15 char
+INFO  15:45:53,381 - #15 ch
+INFO  15:45:53,381 - #15 int
+INFO  15:45:53,381 - #15 niz
+INFO  15:45:53,381 - #15 bool
+INFO  15:45:53,382 - #15 flag
+INFO  15:45:53,383 - #13 void
+INFO  15:45:53,383 - #15 main
+INFO  15:45:53,385 - #15 niz
+INFO  15:45:53,386 - #26 new
+INFO  15:45:53,386 - #15 int
+INFO  15:45:53,387 - #14 2
+INFO  15:45:53,388 - #14 2
+INFO  15:45:53,389 - #15 x
+INFO  15:45:53,390 - #15 len
+INFO  15:45:53,390 - #15 niz
+INFO  15:45:53,390 - #12 print
+INFO  15:45:53,390 - #15 x
+INFO  15:45:53,391 - #9 return
+INFO  15:45:53,405 - ===================================
+INFO  15:45:53,412 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  15:45:53,412 - Deklarisana globalna promenljiva x na liniji 2
+INFO  15:45:53,413 - Deklarisana globalna promenljiva m na liniji 2
+INFO  15:45:53,413 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  15:45:53,413 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  15:45:53,413 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  15:45:53,413 - Obradjuje se funkcija main na liniji 8
+INFO  15:45:53,413 - Koristi se promenljiva: niz na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  15:45:53,414 - Koristi se promenljiva: x na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  15:45:53,414 - Koristi se promenljiva: niz na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  15:45:53,414 - Pronadjen poziv funkcije len na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  15:45:53,414 - Koristi se promenljiva: x na liniji 11 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  15:45:53,414 - Poziv funkcije print na liniji 11
+INFO  15:45:53,414 - KRAJ Funkcije: main
+INFO  15:45:53,415 -  Print count calls = 1
+INFO  15:45:53,415 -  Deklarisanih globalnih promenljivih ima = 4
+INFO  15:45:53,415 - ===================================
+INFO  15:45:53,424 - Parsiranje uspesno zavrseno!

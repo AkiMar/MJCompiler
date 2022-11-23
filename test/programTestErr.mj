@@ -1,0 +1,68 @@
+program MJProgram
+	int x, m;
+	char ch;
+	int niz[];
+	bool flag;
+{
+	
+	int k(int b, int c, int d = 46, char s = 'c')
+	int a; 
+	{ 
+		flag = 2;
+		a = true;
+		print(b);
+		print(c);
+		print(d);
+		print(s);
+		return a;
+	}
+	
+	void main(){
+			read(flag);
+			print(x);
+			print(flag);
+			print(chr(5));
+			print(ord('a'));
+			print(26);
+			print(k(1,2));
+			x = 'c';
+			niz = new char[5];
+			niz[0] = 1;
+			print(niz[0]);
+			print(len(niz));
+			niz[x] = 6;
+			niz[x]--;
+			x = niz[x];
+			print(x);
+			
+			x = k(1, k(2), niz[1], 1,2, 3);
+			print('X');
+			x = 0;
+			do{
+				do{
+					break;
+					x++;
+					print(x);
+				}while( flag && x > 5 );
+				
+				if(x == 0 && sss d) break;
+				
+				x++;
+				print(x);
+			}while( x < 8 && x >= 6);
+			
+			//read(x);
+			print('K');
+			
+			if( k(1,2) > 1 || s x < 2 )
+				if( k(1,2) > 10 || x < 2 ){
+					print('A');
+				}
+			
+			if( x < 0 || x < 1 ) print(x);
+			else if(x == 3) print(15);
+			else print(10);
+						
+		 	return;
+	}
+}

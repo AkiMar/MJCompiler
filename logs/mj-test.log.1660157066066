@@ -1,0 +1,29 @@
+INFO  20:43:53,519 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  20:43:53,573 - #2 program
+INFO  20:43:53,573 - #15 MJProgram
+INFO  20:43:53,573 - #15 int
+INFO  20:43:53,573 - #15 x
+INFO  20:43:53,573 - #11 ,
+INFO  20:43:53,573 - #15 m
+INFO  20:43:53,573 - #5 ;
+INFO  20:43:53,574 - #15 int
+INFO  20:43:53,574 - #15 k
+INFO  20:43:53,574 - #6 (
+ERROR 20:43:53,574 - 
+Sintaksna greska na liniji 4 simbol greske:#6
+INFO  20:43:53,575 - #7 )
+INFO  20:43:53,575 - #3 {
+INFO  20:43:53,575 - #9 return
+INFO  20:43:53,575 - #14 1
+INFO  20:43:53,575 - #5 ;
+INFO  20:43:53,576 - #4 }
+INFO  20:43:53,576 - #13 void
+INFO  20:43:53,576 - #15 main
+INFO  20:43:53,576 - #6 (
+INFO  20:43:53,576 - #7 )
+INFO  20:43:53,576 - #3 {
+INFO  20:43:53,576 - #9 return
+INFO  20:43:53,576 - #5 ;
+INFO  20:43:53,576 - #4 }
+INFO  20:43:53,576 - #4 }
+ERROR 20:43:53,577 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11 simbol greske:#0

@@ -1,0 +1,33 @@
+INFO  15:23:36,929 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  15:23:37,027 - #2 program
+INFO  15:23:37,028 - #15 MJProgram
+INFO  15:23:37,028 - #15 int
+INFO  15:23:37,029 - #15 x
+INFO  15:23:37,029 - #15 m
+INFO  15:23:37,030 - #15 char
+INFO  15:23:37,030 - #15 ch
+INFO  15:23:37,030 - #15 int
+INFO  15:23:37,030 - #15 niz
+INFO  15:23:37,031 - #15 bool
+INFO  15:23:37,031 - #15 flag
+INFO  15:23:37,032 - #13 void
+INFO  15:23:37,033 - #15 main
+INFO  15:23:37,035 - #15 niz
+INFO  15:23:37,036 - #26 new
+INFO  15:23:37,036 - #15 int
+ERROR 15:23:37,036 - 
+Sintaksna greska na liniji 9 simbol greske:#34
+INFO  15:23:37,038 - #9 return
+ERROR 15:23:37,038 - Izvrsen oporavak do ; u liniji 9
+INFO  15:23:37,057 - ===================================
+INFO  15:23:37,062 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@4d405ef7 rs.etf.pp1.symboltable.concepts.Struct@6193b845
+INFO  15:23:37,063 - Deklarisana globalna promenljiva x na liniji 2
+INFO  15:23:37,063 - Deklarisana globalna promenljiva m na liniji 2
+INFO  15:23:37,063 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  15:23:37,063 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  15:23:37,064 - Obradjuje se funkcija main na liniji 8
+INFO  15:23:37,064 - KRAJ Funkcije: main
+INFO  15:23:37,064 -  Print count calls = 0
+INFO  15:23:37,064 -  Deklarisanih globalnih promenljivih ima = 3
+INFO  15:23:37,064 - ===================================
+ERROR 15:23:37,065 - Parsiranje NIJE uspesno zavrseno!

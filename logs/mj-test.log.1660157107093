@@ -1,0 +1,40 @@
+INFO  20:44:26,069 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  20:44:26,126 - #2 program
+INFO  20:44:26,126 - #15 MJProgram
+INFO  20:44:26,127 - #15 int
+INFO  20:44:26,127 - #15 x
+INFO  20:44:26,128 - #11 ,
+INFO  20:44:26,128 - #15 m
+INFO  20:44:26,128 - #5 ;
+INFO  20:44:26,128 - #15 int
+INFO  20:44:26,129 - #15 sum
+INFO  20:44:26,129 - #6 (
+ERROR 20:44:26,129 - 
+Sintaksna greska na liniji 4 simbol greske:#6
+INFO  20:44:26,129 - #15 int
+INFO  20:44:26,129 - #15 z
+INFO  20:44:26,129 - #8 =
+INFO  20:44:26,130 - #14 1
+INFO  20:44:26,130 - #11 ,
+INFO  20:44:26,130 - #15 int
+INFO  20:44:26,130 - #15 d
+INFO  20:44:26,130 - #8 =
+INFO  20:44:26,130 - #14 2
+INFO  20:44:26,130 - #7 )
+INFO  20:44:26,130 - #3 {
+INFO  20:44:26,130 - #9 return
+INFO  20:44:26,131 - #15 z
+INFO  20:44:26,131 - #10 +
+INFO  20:44:26,131 - #15 d
+INFO  20:44:26,131 - #5 ;
+INFO  20:44:26,131 - #4 }
+INFO  20:44:26,131 - #13 void
+INFO  20:44:26,131 - #15 main
+INFO  20:44:26,131 - #6 (
+INFO  20:44:26,131 - #7 )
+INFO  20:44:26,131 - #3 {
+INFO  20:44:26,131 - #9 return
+INFO  20:44:26,131 - #5 ;
+INFO  20:44:26,131 - #4 }
+INFO  20:44:26,131 - #4 }
+ERROR 20:44:26,132 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12 simbol greske:#0

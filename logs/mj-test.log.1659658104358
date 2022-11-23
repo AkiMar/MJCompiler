@@ -1,0 +1,136 @@
+INFO  01:57:36,728 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\3 Semanticka Analiza\MJCompiler_SemAna\test\program.mj
+INFO  01:57:36,776 - #2 program
+INFO  01:57:36,777 - #15 MJProgram
+INFO  01:57:36,777 - #15 int
+INFO  01:57:36,777 - #15 x
+INFO  01:57:36,778 - #5 ;
+INFO  01:57:36,779 - #15 char
+INFO  01:57:36,779 - #15 y
+INFO  01:57:36,779 - #5 ;
+INFO  01:57:36,779 - #15 int
+INFO  01:57:36,779 - #15 niz
+INFO  01:57:36,779 - #33 [
+INFO  01:57:36,779 - #34 ]
+INFO  01:57:36,779 - #5 ;
+INFO  01:57:36,780 - #3 {
+INFO  01:57:36,781 - #15 char
+INFO  01:57:36,782 - #15 k
+INFO  01:57:36,782 - #6 (
+INFO  01:57:36,782 - #15 int
+INFO  01:57:36,782 - #15 a
+INFO  01:57:36,782 - #33 [
+INFO  01:57:36,782 - #34 ]
+INFO  01:57:36,783 - #11 ,
+INFO  01:57:36,783 - #15 int
+INFO  01:57:36,784 - #15 b
+INFO  01:57:36,784 - #11 ,
+INFO  01:57:36,784 - #15 char
+INFO  01:57:36,784 - #15 y
+INFO  01:57:36,784 - #7 )
+INFO  01:57:36,785 - #15 int
+INFO  01:57:36,786 - #15 c
+INFO  01:57:36,786 - #5 ;
+INFO  01:57:36,786 - #15 int
+INFO  01:57:36,786 - #15 d
+INFO  01:57:36,786 - #5 ;
+INFO  01:57:36,786 - #15 int
+INFO  01:57:36,786 - #15 v
+INFO  01:57:36,786 - #5 ;
+INFO  01:57:36,787 - #3 {
+INFO  01:57:36,787 - #15 x
+INFO  01:57:36,788 - #8 =
+INFO  01:57:36,788 - #15 a
+INFO  01:57:36,788 - #5 ;
+INFO  01:57:36,789 - #15 x
+INFO  01:57:36,790 - #8 =
+INFO  01:57:36,790 - #15 niz
+INFO  01:57:36,790 - #33 [
+INFO  01:57:36,790 - #14 1
+INFO  01:57:36,790 - #34 ]
+INFO  01:57:36,790 - #5 ;
+INFO  01:57:36,790 - #15 niz
+INFO  01:57:36,791 - #33 [
+INFO  01:57:36,791 - #14 0
+INFO  01:57:36,791 - #34 ]
+INFO  01:57:36,791 - #8 =
+INFO  01:57:36,791 - #15 c
+INFO  01:57:36,791 - #5 ;
+INFO  01:57:36,791 - #9 return
+INFO  01:57:36,791 - #15 y
+INFO  01:57:36,791 - #5 ;
+INFO  01:57:36,791 - #4 }
+INFO  01:57:36,792 - #15 int
+INFO  01:57:36,792 - #15 main
+INFO  01:57:36,792 - #6 (
+INFO  01:57:36,792 - #7 )
+INFO  01:57:36,793 - #15 int
+INFO  01:57:36,793 - #15 d
+INFO  01:57:36,793 - #5 ;
+INFO  01:57:36,793 - #3 {
+INFO  01:57:36,796 - #15 y
+INFO  01:57:36,797 - #8 =
+INFO  01:57:36,797 - #14 2
+INFO  01:57:36,797 - #5 ;
+INFO  01:57:36,797 - #15 x
+INFO  01:57:36,797 - #8 =
+INFO  01:57:36,797 - #15 x
+INFO  01:57:36,797 - #31 *
+INFO  01:57:36,797 - #14 2
+INFO  01:57:36,798 - #5 ;
+INFO  01:57:36,798 - #15 y
+INFO  01:57:36,798 - #8 =
+INFO  01:57:36,798 - #15 x
+INFO  01:57:36,798 - #10 +
+INFO  01:57:36,798 - #14 3
+INFO  01:57:36,799 - #5 ;
+INFO  01:57:36,799 - #15 y
+INFO  01:57:36,799 - #8 =
+INFO  01:57:36,799 - #15 k
+INFO  01:57:36,799 - #6 (
+INFO  01:57:36,799 - #7 )
+INFO  01:57:36,800 - #5 ;
+INFO  01:57:36,800 - #12 print
+INFO  01:57:36,800 - #6 (
+INFO  01:57:36,800 - #15 y
+INFO  01:57:36,800 - #7 )
+INFO  01:57:36,800 - #5 ;
+INFO  01:57:36,800 - #9 return
+INFO  01:57:36,801 - #14 0
+INFO  01:57:36,801 - #5 ;
+INFO  01:57:36,801 - #4 }
+INFO  01:57:36,801 - #4 }
+INFO  01:57:36,816 - ===================================
+INFO  01:57:36,819 - Deklarisana globalna promenljiva x na liniji 2
+INFO  01:57:36,819 - Deklarisana globalna promenljiva y na liniji 2
+INFO  01:57:36,819 - Deklarisana globaln promenljiva niz[] na liniji 2
+INFO  01:57:36,819 - Obradjuje se funkcija k na liniji 5
+INFO  01:57:36,819 - Deklarisana lokalna promenljiva c na liniji 31
+INFO  01:57:36,819 - Deklarisana lokalna promenljiva d na liniji 31
+INFO  01:57:36,819 - Deklarisana lokalna promenljiva v na liniji 31
+INFO  01:57:36,819 - Koristi se promenljiva: x na liniji 6
+ERROR 01:57:36,820 - Greska na liniji 6 : ime a nije deklarisano! 
+INFO  01:57:36,820 - Koristi se promenljiva: a na liniji 6
+ERROR 01:57:36,820 - Greska na liniji 6 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  01:57:36,820 - Koristi se promenljiva: x na liniji 7
+INFO  01:57:36,820 - Pronadjen pristup nizu niz na liniji 7
+INFO  01:57:36,820 - Pronadjen pristup nizu niz na liniji 8
+INFO  01:57:36,820 - Koristi se promenljiva: c na liniji 8
+INFO  01:57:36,820 - Koristi se promenljiva: y na liniji 9
+INFO  01:57:36,820 - KRAJ Funkcije: k
+INFO  01:57:36,820 - Obradjuje se funkcija main na liniji 12
+INFO  01:57:36,820 - Deklarisana lokalna promenljiva d na liniji 10
+INFO  01:57:36,820 - Koristi se promenljiva: y na liniji 13
+ERROR 01:57:36,821 - Greska na liniji 13 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  01:57:36,821 - Koristi se promenljiva: x na liniji 14
+INFO  01:57:36,821 - Koristi se promenljiva: x na liniji 14
+INFO  01:57:36,821 - Koristi se promenljiva: y na liniji 15
+INFO  01:57:36,821 - Koristi se promenljiva: x na liniji 15
+ERROR 01:57:36,821 - Greska na liniji 15 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  01:57:36,821 - Koristi se promenljiva: y na liniji 16
+INFO  01:57:36,821 - Pronadjen poziv funkcije k na liniji 16
+INFO  01:57:36,821 - Koristi se promenljiva: y na liniji 17
+INFO  01:57:36,821 - KRAJ Funkcije: main
+INFO  01:57:36,821 -  Print count calls = 1
+INFO  01:57:36,822 -  Deklarisanih globalnih promenljivih ima = 3
+INFO  01:57:36,822 - ===================================
+ERROR 01:57:36,823 - Parsiranje NIJE uspesno zavrseno!

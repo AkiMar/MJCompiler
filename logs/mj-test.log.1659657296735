@@ -1,0 +1,103 @@
+INFO  01:54:47,120 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\3 Semanticka Analiza\MJCompiler_SemAna\test\program.mj
+INFO  01:54:47,168 - #2 program
+INFO  01:54:47,168 - #15 MJProgram
+INFO  01:54:47,168 - #15 int
+INFO  01:54:47,169 - #15 x
+INFO  01:54:47,169 - #5 ;
+INFO  01:54:47,170 - #15 char
+INFO  01:54:47,170 - #15 y
+INFO  01:54:47,170 - #5 ;
+INFO  01:54:47,170 - #15 int
+INFO  01:54:47,170 - #15 niz
+INFO  01:54:47,170 - #33 [
+INFO  01:54:47,170 - #34 ]
+INFO  01:54:47,171 - #5 ;
+INFO  01:54:47,171 - #3 {
+INFO  01:54:47,171 - #15 char
+INFO  01:54:47,173 - #15 k
+INFO  01:54:47,173 - #6 (
+INFO  01:54:47,173 - #15 int
+INFO  01:54:47,173 - #15 a
+INFO  01:54:47,173 - #5 ;
+ERROR 01:54:47,173 - 
+Sintaksna greska na liniji 5 simbol greske:#5
+INFO  01:54:47,173 - #7 )
+INFO  01:54:47,173 - #15 int
+INFO  01:54:47,173 - #15 c
+INFO  01:54:47,174 - #5 ;
+INFO  01:54:47,174 - #15 int
+INFO  01:54:47,174 - #15 d
+INFO  01:54:47,174 - #5 ;
+ERROR 01:54:47,175 - Izvrsen oporavak do ; u liniji 2
+INFO  01:54:47,175 - #15 int
+INFO  01:54:47,175 - #15 v
+INFO  01:54:47,176 - #5 ;
+INFO  01:54:47,176 - #3 {
+INFO  01:54:47,176 - #15 x
+INFO  01:54:47,176 - #8 =
+ERROR 01:54:47,176 - 
+Sintaksna greska na liniji 6 simbol greske:#8
+INFO  01:54:47,176 - #15 c
+INFO  01:54:47,176 - #5 ;
+INFO  01:54:47,176 - #15 x
+INFO  01:54:47,176 - #8 =
+INFO  01:54:47,176 - #15 niz
+INFO  01:54:47,176 - #33 [
+INFO  01:54:47,176 - #14 1
+INFO  01:54:47,176 - #34 ]
+INFO  01:54:47,176 - #5 ;
+INFO  01:54:47,176 - #15 niz
+INFO  01:54:47,177 - #33 [
+INFO  01:54:47,177 - #14 0
+INFO  01:54:47,177 - #34 ]
+INFO  01:54:47,177 - #8 =
+INFO  01:54:47,177 - #15 c
+INFO  01:54:47,177 - #5 ;
+INFO  01:54:47,177 - #9 return
+INFO  01:54:47,177 - #15 y
+INFO  01:54:47,177 - #5 ;
+INFO  01:54:47,178 - #4 }
+INFO  01:54:47,178 - #15 int
+INFO  01:54:47,178 - #15 main
+INFO  01:54:47,178 - #6 (
+INFO  01:54:47,178 - #7 )
+INFO  01:54:47,178 - #15 int
+INFO  01:54:47,178 - #15 d
+INFO  01:54:47,178 - #5 ;
+INFO  01:54:47,179 - #3 {
+INFO  01:54:47,179 - #15 y
+INFO  01:54:47,179 - #8 =
+ERROR 01:54:47,179 - Izvrsen oporavak do ; u liniji 2
+ERROR 01:54:47,179 - 
+Sintaksna greska na liniji 13 simbol greske:#8
+INFO  01:54:47,183 - #14 2
+INFO  01:54:47,183 - #5 ;
+INFO  01:54:47,183 - #15 x
+INFO  01:54:47,183 - #8 =
+INFO  01:54:47,183 - #15 x
+INFO  01:54:47,183 - #31 *
+INFO  01:54:47,183 - #14 2
+INFO  01:54:47,183 - #5 ;
+INFO  01:54:47,184 - #15 y
+INFO  01:54:47,184 - #8 =
+INFO  01:54:47,184 - #15 x
+INFO  01:54:47,184 - #10 +
+INFO  01:54:47,184 - #14 3
+INFO  01:54:47,184 - #5 ;
+INFO  01:54:47,184 - #15 y
+INFO  01:54:47,184 - #8 =
+INFO  01:54:47,184 - #15 k
+INFO  01:54:47,184 - #6 (
+INFO  01:54:47,184 - #7 )
+INFO  01:54:47,184 - #5 ;
+INFO  01:54:47,184 - #12 print
+INFO  01:54:47,184 - #6 (
+INFO  01:54:47,184 - #15 y
+INFO  01:54:47,184 - #7 )
+INFO  01:54:47,184 - #5 ;
+INFO  01:54:47,184 - #9 return
+INFO  01:54:47,184 - #14 0
+INFO  01:54:47,184 - #5 ;
+INFO  01:54:47,184 - #4 }
+INFO  01:54:47,184 - #4 }
+ERROR 01:54:47,186 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 20 simbol greske:#0

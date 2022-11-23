@@ -1,0 +1,41 @@
+INFO  15:46:13,496 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  15:46:13,564 - #2 program
+INFO  15:46:13,564 - #15 MJProgram
+INFO  15:46:13,565 - #15 int
+INFO  15:46:13,565 - #15 x
+INFO  15:46:13,566 - #15 m
+INFO  15:46:13,567 - #15 char
+INFO  15:46:13,567 - #15 ch
+INFO  15:46:13,567 - #15 int
+INFO  15:46:13,567 - #15 niz
+INFO  15:46:13,567 - #15 bool
+INFO  15:46:13,568 - #15 flag
+INFO  15:46:13,569 - #13 void
+INFO  15:46:13,570 - #15 main
+INFO  15:46:13,571 - #15 niz
+INFO  15:46:13,572 - #26 new
+INFO  15:46:13,573 - #15 int
+INFO  15:46:13,573 - #14 2
+INFO  15:46:13,575 - #14 2
+INFO  15:46:13,576 - #15 x
+INFO  15:46:13,576 - #15 len
+INFO  15:46:13,576 - #15 niz
+INFO  15:46:13,577 - #15 niz
+INFO  15:46:13,577 - #14 0
+INFO  15:46:13,578 - #14 0
+INFO  15:46:13,578 - #14 1
+INFO  15:46:13,578 - #12 print
+INFO  15:46:13,578 - #15 x
+INFO  15:46:13,578 - #9 return
+INFO  15:46:13,596 - ===================================
+INFO  15:46:13,602 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  15:46:13,602 - Deklarisana globalna promenljiva x na liniji 2
+INFO  15:46:13,602 - Deklarisana globalna promenljiva m na liniji 2
+INFO  15:46:13,602 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  15:46:13,602 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  15:46:13,602 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  15:46:13,602 - Obradjuje se funkcija main na liniji 8
+INFO  15:46:13,603 - Koristi se promenljiva: niz na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  15:46:13,603 - Koristi se promenljiva: x na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  15:46:13,603 - Koristi se promenljiva: niz na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  15:46:13,603 - Pronadjen poziv funkcije len na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38

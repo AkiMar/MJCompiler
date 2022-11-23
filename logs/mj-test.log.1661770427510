@@ -1,0 +1,36 @@
+INFO  12:53:02,017 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  12:53:02,088 - #2 program
+INFO  12:53:02,088 - #15 MJProgram
+INFO  12:53:02,088 - #15 int
+INFO  12:53:02,089 - #15 x
+INFO  12:53:02,090 - #15 m
+INFO  12:53:02,090 - #15 char
+INFO  12:53:02,091 - #15 ch
+INFO  12:53:02,091 - #15 int
+INFO  12:53:02,091 - #15 niz
+INFO  12:53:02,091 - #15 bool
+INFO  12:53:02,091 - #15 flag
+INFO  12:53:02,092 - #13 void
+INFO  12:53:02,093 - #15 main
+INFO  12:53:02,094 - #15 niz
+INFO  12:53:02,095 - #26 new
+INFO  12:53:02,095 - #15 int
+INFO  12:53:02,095 - #14 5
+INFO  12:53:02,097 - #15 niz
+INFO  12:53:02,097 - #14 2
+INFO  12:53:02,098 - #9 return
+INFO  12:53:02,114 - ===================================
+INFO  12:53:02,119 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  12:53:02,120 - Deklarisana globalna promenljiva x na liniji 2
+INFO  12:53:02,120 - Deklarisana globalna promenljiva m na liniji 2
+INFO  12:53:02,120 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  12:53:02,120 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  12:53:02,120 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  12:53:02,121 - Obradjuje se funkcija main na liniji 8
+INFO  12:53:02,121 - Koristi se promenljiva: niz na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  12:53:02,121 - Koristi se promenljiva: niz na liniji 11 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  12:53:02,121 - KRAJ Funkcije: main
+INFO  12:53:02,122 -  Print count calls = 0
+INFO  12:53:02,122 -  Deklarisanih globalnih promenljivih ima = 4
+INFO  12:53:02,122 - ===================================
+INFO  12:53:02,130 - Parsiranje uspesno zavrseno!

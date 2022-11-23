@@ -1,0 +1,15 @@
+program MJProgram
+	int x, m;
+	char ch;
+	int niz[][];
+	bool flag;
+{
+	
+	void main(){
+			niz = new int[2][2];
+			x = len(niz);
+			print(x);
+			niz[0][0] = 1;
+		 	return;
+	}
+}

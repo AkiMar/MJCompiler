@@ -1,0 +1,59 @@
+INFO  21:36:21,383 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  21:36:21,440 - #2 program
+INFO  21:36:21,440 - #15 MJProgram
+INFO  21:36:21,440 - #15 int
+INFO  21:36:21,441 - #15 x
+INFO  21:36:21,441 - #11 ,
+INFO  21:36:21,441 - #15 m
+INFO  21:36:21,441 - #5 ;
+INFO  21:36:21,442 - #3 {
+INFO  21:36:21,443 - #15 int
+INFO  21:36:21,443 - #15 k
+INFO  21:36:21,443 - #6 (
+INFO  21:36:21,444 - #7 )
+INFO  21:36:21,444 - #3 {
+INFO  21:36:21,445 - #9 return
+INFO  21:36:21,445 - #14 1
+INFO  21:36:21,445 - #5 ;
+INFO  21:36:21,447 - #4 }
+INFO  21:36:21,447 - #13 void
+INFO  21:36:21,448 - #15 main
+INFO  21:36:21,448 - #6 (
+INFO  21:36:21,448 - #7 )
+INFO  21:36:21,448 - #3 {
+INFO  21:36:21,448 - #15 x
+INFO  21:36:21,448 - #8 =
+INFO  21:36:21,448 - #14 2
+INFO  21:36:21,449 - #5 ;
+INFO  21:36:21,449 - #12 print
+INFO  21:36:21,449 - #6 (
+INFO  21:36:21,449 - #14 1
+INFO  21:36:21,449 - #7 )
+INFO  21:36:21,449 - #5 ;
+INFO  21:36:21,449 - #12 print
+INFO  21:36:21,449 - #6 (
+INFO  21:36:21,450 - #15 k
+INFO  21:36:21,450 - #6 (
+INFO  21:36:21,450 - #7 )
+INFO  21:36:21,456 - #7 )
+INFO  21:36:21,457 - #5 ;
+INFO  21:36:21,457 - #9 return
+INFO  21:36:21,457 - #5 ;
+INFO  21:36:21,457 - #4 }
+INFO  21:36:21,457 - #4 }
+INFO  21:36:21,474 - ===================================
+INFO  21:36:21,478 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  21:36:21,480 - Deklarisana globalna promenljiva x na liniji 2
+INFO  21:36:21,480 - Deklarisana globalna promenljiva m na liniji 2
+INFO  21:36:21,480 - Obradjuje se funkcija k na liniji 5
+INFO  21:36:21,480 - KRAJ Funkcije: k
+INFO  21:36:21,480 - Obradjuje se funkcija main na liniji 10
+INFO  21:36:21,480 - Koristi se promenljiva: x na liniji 11 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  21:36:21,480 - Poziv funkcije print na liniji 12
+INFO  21:36:21,480 - Pronadjen poziv funkcije k na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  21:36:21,480 - Poziv funkcije print na liniji 13
+INFO  21:36:21,480 - KRAJ Funkcije: main
+INFO  21:36:21,481 -  Print count calls = 2
+INFO  21:36:21,481 -  Deklarisanih globalnih promenljivih ima = 1
+INFO  21:36:21,481 - ===================================
+INFO  21:36:21,489 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,74 @@
+INFO  23:38:22,085 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\3 Semanticka Analiza\MJCompiler_SemAna\test\program.mj
+INFO  23:38:22,142 - #2 program
+INFO  23:38:22,142 - #15 MJProgram
+INFO  23:38:22,142 - #15 int
+INFO  23:38:22,143 - #15 x
+INFO  23:38:22,143 - #5 ;
+INFO  23:38:22,144 - #15 char
+INFO  23:38:22,144 - #15 y
+INFO  23:38:22,144 - #5 ;
+INFO  23:38:22,144 - #15 int
+INFO  23:38:22,144 - #15 niz
+INFO  23:38:22,145 - #33 [
+INFO  23:38:22,145 - #34 ]
+INFO  23:38:22,145 - #5 ;
+INFO  23:38:22,145 - #3 {
+INFO  23:38:22,146 - #15 char
+INFO  23:38:22,147 - #15 k
+INFO  23:38:22,147 - #6 (
+INFO  23:38:22,147 - #7 )
+INFO  23:38:22,148 - #15 int
+INFO  23:38:22,149 - #15 c
+INFO  23:38:22,149 - #5 ;
+INFO  23:38:22,149 - #3 {
+INFO  23:38:22,149 - #15 x
+INFO  23:38:22,150 - #8 =
+INFO  23:38:22,150 - #14 1
+INFO  23:38:22,150 - #5 ;
+INFO  23:38:22,151 - #9 return
+INFO  23:38:22,152 - #15 y
+INFO  23:38:22,152 - #5 ;
+INFO  23:38:22,152 - #4 }
+INFO  23:38:22,152 - #15 int
+INFO  23:38:22,153 - #15 main
+INFO  23:38:22,153 - #6 (
+INFO  23:38:22,153 - #7 )
+INFO  23:38:22,153 - #3 {
+INFO  23:38:22,153 - #15 y
+INFO  23:38:22,153 - #8 =
+INFO  23:38:22,153 - #14 2
+INFO  23:38:22,153 - #5 ;
+INFO  23:38:22,153 - #15 x
+INFO  23:38:22,153 - #8 =
+INFO  23:38:22,153 - #15 x
+INFO  23:38:22,153 - #31 *
+INFO  23:38:22,153 - #14 2
+INFO  23:38:22,154 - #5 ;
+INFO  23:38:22,154 - #15 y
+INFO  23:38:22,154 - #8 =
+INFO  23:38:22,154 - #15 x
+INFO  23:38:22,155 - #10 +
+INFO  23:38:22,155 - #14 3
+INFO  23:38:22,155 - #5 ;
+INFO  23:38:22,156 - #12 print
+INFO  23:38:22,156 - #6 (
+INFO  23:38:22,156 - #15 y
+INFO  23:38:22,156 - #7 )
+INFO  23:38:22,156 - #5 ;
+INFO  23:38:22,156 - #9 return
+INFO  23:38:22,156 - #14 0
+INFO  23:38:22,156 - #5 ;
+INFO  23:38:22,156 - #4 }
+INFO  23:38:22,156 - #4 }
+INFO  23:38:22,173 - ===================================
+INFO  23:38:22,176 - Deklarisana globalna promenljiva x na liniji 2
+INFO  23:38:22,176 - Deklarisana globalna promenljiva y na liniji 2
+INFO  23:38:22,176 - Deklarisana globaln promenljiva niz[] na liniji 2
+INFO  23:38:22,176 - Obradjuje se funkcija k na liniji 5
+INFO  23:38:22,176 - Obradjuje se funkcija main na liniji 10
+ERROR 23:38:22,179 - Greska na liniji 11 : nekompatibilni tipovi u dodeli vrednosti! 
+ERROR 23:38:22,179 - Greska na liniji 13 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  23:38:22,179 -  Print count calls = 1
+INFO  23:38:22,179 -  Deklarisanih globalnih promenljivih ima = 3
+INFO  23:38:22,179 - ===================================
+ERROR 23:38:22,180 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,85 @@
+INFO  02:17:43,013 - Compiling source file: E:\Users\Goran\Desktop\Aki\ETF\4 godina\1 semestar\PP1\DOMACI_KOD\1Leksicka Analiza\workspace\MJCompiler_GenKod\test\program.mj
+INFO  02:17:43,064 - #2 program
+INFO  02:17:43,065 - #15 MJProgram
+INFO  02:17:43,065 - #15 int
+INFO  02:17:43,066 - #15 x
+INFO  02:17:43,066 - #11 ,
+INFO  02:17:43,067 - #15 m
+INFO  02:17:43,067 - #5 ;
+INFO  02:17:43,067 - #15 int
+INFO  02:17:43,068 - #15 niz
+INFO  02:17:43,068 - #33 [
+INFO  02:17:43,068 - #34 ]
+INFO  02:17:43,068 - #5 ;
+INFO  02:17:43,068 - #3 {
+INFO  02:17:43,069 - #15 int
+INFO  02:17:43,069 - #15 k
+INFO  02:17:43,069 - #6 (
+INFO  02:17:43,070 - #7 )
+INFO  02:17:43,070 - #3 {
+INFO  02:17:43,071 - #9 return
+INFO  02:17:43,071 - #15 m
+INFO  02:17:43,071 - #5 ;
+INFO  02:17:43,072 - #4 }
+INFO  02:17:43,073 - #13 void
+INFO  02:17:43,073 - #15 main
+INFO  02:17:43,073 - #6 (
+INFO  02:17:43,073 - #7 )
+INFO  02:17:43,073 - #3 {
+INFO  02:17:43,074 - #15 x
+INFO  02:17:43,074 - #8 =
+INFO  02:17:43,074 - #14 1
+INFO  02:17:43,074 - #5 ;
+INFO  02:17:43,074 - #15 niz
+INFO  02:17:43,074 - #8 =
+INFO  02:17:43,074 - #26 new
+INFO  02:17:43,074 - #15 int
+INFO  02:17:43,074 - #33 [
+INFO  02:17:43,075 - #14 3
+INFO  02:17:43,075 - #34 ]
+INFO  02:17:43,075 - #5 ;
+INFO  02:17:43,075 - #15 niz
+INFO  02:17:43,075 - #33 [
+INFO  02:17:43,075 - #15 x
+INFO  02:17:43,075 - #34 ]
+INFO  02:17:43,075 - #8 =
+INFO  02:17:43,076 - #14 6
+INFO  02:17:43,076 - #5 ;
+INFO  02:17:43,076 - #15 x
+INFO  02:17:43,076 - #8 =
+INFO  02:17:43,076 - #15 niz
+INFO  02:17:43,076 - #33 [
+INFO  02:17:43,076 - #14 1
+INFO  02:17:43,076 - #34 ]
+INFO  02:17:43,076 - #5 ;
+INFO  02:17:43,076 - #12 print
+INFO  02:17:43,076 - #6 (
+INFO  02:17:43,076 - #15 x
+INFO  02:17:43,077 - #7 )
+INFO  02:17:43,077 - #5 ;
+INFO  02:17:43,077 - #9 return
+INFO  02:17:43,077 - #5 ;
+INFO  02:17:43,077 - #4 }
+INFO  02:17:43,078 - #4 }
+INFO  02:17:43,091 - ===================================
+INFO  02:17:43,096 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  02:17:43,096 - Deklarisana globalna promenljiva x na liniji 2
+INFO  02:17:43,096 - Deklarisana globalna promenljiva m na liniji 2
+INFO  02:17:43,096 - Deklarisana globaln promenljiva niz[] na liniji 3
+INFO  02:17:43,099 - Obradjuje se funkcija k na liniji 6
+INFO  02:17:43,099 - Koristi se promenljiva: m na liniji 9 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  02:17:43,100 - KRAJ Funkcije: k
+INFO  02:17:43,100 - Obradjuje se funkcija main na liniji 12
+INFO  02:17:43,100 - Koristi se promenljiva: x na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  02:17:43,100 - Koristi se promenljiva: niz na liniji 15 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  02:17:43,100 - Koristi se promenljiva: x na liniji 16 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  02:17:43,100 - Pronadjen pristup nizu niz na liniji 16 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  02:17:43,100 - Koristi se promenljiva: x na liniji 17 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  02:17:43,100 - Pronadjen pristup nizu niz na liniji 17 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@2e817b38
+INFO  02:17:43,100 - Koristi se promenljiva: x na liniji 19 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@6193b845
+INFO  02:17:43,100 - Poziv funkcije print na liniji 19
+INFO  02:17:43,100 - KRAJ Funkcije: main
+INFO  02:17:43,100 -  Print count calls = 1
+INFO  02:17:43,100 -  Deklarisanih globalnih promenljivih ima = 2
+INFO  02:17:43,100 - ===================================
+INFO  02:17:43,114 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,48 @@
+INFO  13:23:07,332 - Compiling source file: E:\Users\Goran\Desktop\MJCompiler\MJCompiler_GenKod\.\test\program.mj
+INFO  13:23:07,406 - #2 program
+INFO  13:23:07,406 - #15 MJProgram
+INFO  13:23:07,406 - #15 int
+INFO  13:23:07,407 - #15 x
+INFO  13:23:07,408 - #15 m
+INFO  13:23:07,408 - #15 char
+INFO  13:23:07,409 - #15 ch
+INFO  13:23:07,409 - #15 int
+INFO  13:23:07,409 - #15 niz
+INFO  13:23:07,409 - #15 bool
+INFO  13:23:07,409 - #15 flag
+INFO  13:23:07,410 - #13 void
+INFO  13:23:07,411 - #15 main
+INFO  13:23:07,412 - #15 niz
+INFO  13:23:07,413 - #26 new
+INFO  13:23:07,413 - #15 int
+INFO  13:23:07,413 - #14 5
+INFO  13:23:07,415 - #15 niz
+INFO  13:23:07,416 - #14 2
+INFO  13:23:07,416 - #15 niz
+INFO  13:23:07,416 - #14 0
+INFO  13:23:07,416 - #14 5
+INFO  13:23:07,416 - #15 niz
+INFO  13:23:07,417 - #14 0
+INFO  13:23:07,417 - #12 print
+INFO  13:23:07,417 - #15 niz
+INFO  13:23:07,417 - #14 0
+INFO  13:23:07,417 - #9 return
+INFO  13:23:07,433 - ===================================
+INFO  13:23:07,438 - Ubacena bool type u TS kao obj i struct rs.etf.pp1.symboltable.concepts.Obj@300ffa5d rs.etf.pp1.symboltable.concepts.Struct@1f17ae12
+INFO  13:23:07,439 - Deklarisana globalna promenljiva x na liniji 2
+INFO  13:23:07,439 - Deklarisana globalna promenljiva m na liniji 2
+INFO  13:23:07,439 - Deklarisana globalna promenljiva ch na liniji 3
+INFO  13:23:07,439 - Deklarisana globaln promenljiva niz[] na liniji 4
+INFO  13:23:07,439 - Deklarisana globalna promenljiva flag na liniji 5
+INFO  13:23:07,439 - Obradjuje se funkcija main na liniji 8
+INFO  13:23:07,439 - Koristi se promenljiva: niz na liniji 10 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  13:23:07,440 - Koristi se promenljiva: niz na liniji 11 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  13:23:07,440 - Pronadjen pristup nizu niz na liniji 12 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  13:23:07,440 - Pronadjen pristup nizu niz na liniji 13 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  13:23:07,440 - Pronadjen pristup nizu niz na liniji 14 OBJ cvor: rs.etf.pp1.symboltable.concepts.Obj@4d405ef7
+INFO  13:23:07,440 - Poziv funkcije print na liniji 14
+INFO  13:23:07,441 - KRAJ Funkcije: main
+INFO  13:23:07,441 -  Print count calls = 1
+INFO  13:23:07,441 -  Deklarisanih globalnih promenljivih ima = 4
+INFO  13:23:07,441 - ===================================
+INFO  13:23:07,463 - Parsiranje uspesno zavrseno!
